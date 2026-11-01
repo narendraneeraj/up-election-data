@@ -1,0 +1,82 @@
+Saharanpur|1|Behat;Nakur;Saharanpur Nagar;Saharanpur;Deoband;Rampur Maniharan~;Gangoh
+Shamli|8|Kairana;Thana Bhawan;Shamli
+Muzaffarnagar|11|Budhana;Charthawal;Purqazi~;Muzaffarnagar;Khatauli;Meerapur
+Bijnor|17|Najibabad;Nagina~;Barhapur;Dhampur;Nehtaur~;Bijnor;Chandpur;Noorpur
+Moradabad|25|Kanth;Thakurdwara;Moradabad Rural;Moradabad Nagar;Kundarki;Bilari
+Sambhal|31|Chandausi~;Asmoli;Sambhal
+Rampur|34|Suar;Chamraua;Bilaspur;Rampur;Milak~
+Amroha|39|Dhanaura~;Naugawan Sadat;Amroha;Hasanpur
+Meerut|43|Siwalkhas;Sardhana;Hastinapur~;Kithore;Meerut Cantt.;Meerut;Meerut South
+Baghpat|50|Chhaprauli;Baraut;Baghpat
+Ghaziabad|53|Loni;Muradnagar;Sahibabad;Ghaziabad;Modinagar
+Hapur|58|Dhaulana;Hapur~;Garhmukteshwar
+Gautam Buddha Nagar|61|Noida;Dadri;Jewar
+Bulandshahr|64|Sikandrabad;Bulandshahr;Syana;Anupshahr;Debai;Shikarpur;Khurja~
+Aligarh|71|Khair~;Barauli;Atrauli;Chharra;Koil;Aligarh;Iglas~
+Hathras|78|Hathras~;Sadabad;Sikandra Rao
+Mathura|81|Chhata;Mant;Goverdhan;Mathura;Baldev~
+Agra|86|Etmadpur;Agra Cantt.~;Agra South;Agra North;Agra Rural~;Fatehpur Sikri;Kheragarh;Fatehabad;Bah
+Firozabad|95|Tundla~;Jasrana;Firozabad;Shikohabad;Sirsaganj
+Kasganj|100|Kasganj;Amanpur;Patiyali
+Etah|103|Aliganj;Etah;Marhara;Jalesar~
+Mainpuri|107|Mainpuri;Bhongaon;Kishni~;Karhal
+Sambhal|111|Gunnaur
+Budaun|112|Bisauli~;Sahaswan;Bilsi;Badaun;Shekhupur;Dataganj
+Bareilly|118|Baheri;Meerganj;Bhojipura;Nawabganj;Faridpur~;Bithari Chainpur;Bareilly;Bareilly Cantt.;Aonla
+Pilibhit|127|Pilibhit;Barkhera;Puranpur~;Bisalpur
+Shahjahanpur|131|Katra;Jalalabad;Tilhar;Powayan~;Shahjahanpur;Dadraul
+Lakhimpur Kheri|137|Palia;Nighasan;Gola Gokrannath;Sri Nagar~;Dhaurahra;Lakhimpur;Kasta~;Mohammdi
+Sitapur|145|Maholi;Sitapur;Hargaon~;Laharpur;Biswan;Sevata;Mahmoodabad;Sidhauli~;Misrikh~
+Hardoi|154|Sawayazpur;Shahabad;Hardoi;Gopamau~;Sandi~;Bilgram-Mallanwan;Balamau~;Sandila
+Unnao|162|Bangarmau;Safipur~;Mohan~;Unnao;Bhagwantnagar;Purwa
+Lucknow|168|Malihabad~;Bakshi Kaa Talab;Sarojini Nagar;Lucknow West;Lucknow North;Lucknow East;Lucknow Central;Lucknow Cantonment;Mohanlalganj~
+Raebareli|177|Bachhrawan~
+Amethi|178|Tiloi
+Raebareli|179|Harchandpur;Rae Bareli
+Amethi|181|Salon~
+Raebareli|182|Sareni;Unchahar
+Amethi|184|Jagdishpur~;Gauriganj;Amethi
+Sultanpur|187|Isauli;Sultanpur;Sadar;Lambhua;Kadipur~
+Farrukhabad|192|Kaimganj~;Amritpur;Farrukhabad;Bhojpur
+Kannauj|196|Chhibramau;Tirwa;Kannauj~
+Etawah|199|Jaswantnagar;Etawah;Bharthana~
+Auraiya|202|Bidhuna;Dibiyapur;Auraiya~
+Kanpur Dehat|205|Rasulabad~;Akbarpur-Raniya;Sikandra;Bhognipur
+Kanpur Nagar|209|Bilhaur~;Bithoor;Kalyanpur;Govind Nagar;Sishamau;Arya Nagar;Kidwai Nagar;Kanpur Cantonment;Maharajpur;Ghatampur~
+Jalaun|219|Madhogarh;Kalpi;Orai~
+Jhansi|222|Babina;Jhansi Nagar;Mauranipur~;Garautha
+Lalitpur|226|Lalitpur;Mehroni~
+Hamirpur|228|Hamirpur;Rath~
+Mahoba|230|Mahoba;Charkhari
+Banda|232|Tindwari;Baberu;Naraini~;Banda
+Chitrakoot|236|Chitrakoot;Manikpur
+Fatehpur|238|Jahanabad;Bindki;Fatehpur;Ayah Shah;Husainganj;Khaga~
+Pratapgarh|244|Rampur Khas;Babaganj~;Kunda;Vishwanathganj;Pratapgarh;Patti;Raniganj
+Kaushambi|251|Sirathu;Manjhanpur~;Chail
+Prayagraj|254|Phaphamau;Soraon~;Phulpur;Pratappur;Handia;Meja;Karachhana;Allahabad West;Allahabad North;Allahabad South;Bara~;Koraon~
+Barabanki|266|Kursi;Ram Nagar;Barabanki;Zaidpur~;Dariyabad
+Ayodhya|271|Rudauli
+Barabanki|272|Haidergarh~
+Ayodhya|273|Milkipur~;Bikapur;Ayodhya;Goshainganj
+Ambedkar Nagar|277|Katehari;Tanda;Alapur~;Jalalpur;Akbarpur
+Bahraich|282|Balha~;Nanpara;Matera;Mahasi;Bahraich;Payagpur;Kaiserganj
+Shrawasti|289|Bhinga;Shrawasti
+Balrampur|291|Tulsipur;Gainsari;Utraula;Balrampur~
+Gonda|295|Mehnaun;Gonda;Katra Bazar;Colonelganj;Tarabganj;Mankapur~;Gaura
+Siddharthnagar|302|Shohratgarh;Kapilvastu~;Bansi;Itwa;Domariyaganj
+Basti|307|Harraiya;Kaptanganj;Rudhauli;Basti Sadar;Mahadewa~
+Sant Kabir Nagar|312|Menhdawal;Khalilabad;Dhanghata~
+Maharajganj|315|Pharenda;Nautanwa;Siswa;Maharajganj~;Paniyara
+Gorakhpur|320|Caimpiyarganj;Pipraich;Gorakhpur Urban;Gorakhpur Rural;Sahajanwa;Khajani~;Chauri-Chaura;Bansgaon~;Chillupar
+Kushinagar|329|Khadda;Padrauna;Tamkuhi Raj;Fazilnagar;Kushinagar;Hata;Ramkola~
+Deoria|336|Rudrapur;Deoria;Pathardeva;Rampur Karkhana;Bhatpar Rani;Salempur~;Barhaj
+Azamgarh|343|Atrauliya;Gopalpur;Sagri;Mubarakpur;Azamgarh;Nizamabad;Phoolpur Pawai;Didarganj;Lalganj~;Mehnagar~
+Mau|353|Madhuban;Ghosi;Muhammadabad-Gohna~;Mau
+Ballia|357|Belthara Road~;Rasara;Sikanderpur;Phephana;Ballia Nagar;Bansdih;Bairia
+Jaunpur|364|Badlapur;Shahganj;Jaunpur;Malhani;Mungra Badshahpur;Machhlishahr~;Mariyahu;Zafrabad;Kerakat~
+Ghazipur|373|Jakhanian~;Saidpur~;Ghazipur Sadar;Jangipur;Zahoorabad;Mohammadabad;Zamania
+Chandauli|380|Mughalsarai;Sakaldiha;Saiyadraja;Chakia~
+Varanasi|384|Pindra;Ajagara~;Shivpur;Rohaniya;Varanasi North;Varanasi South;Varanasi Cantt.;Sevapuri
+Bhadohi|392|Bhadohi;Gyanpur;Aurai~
+Mirzapur|395|Chhanbey~;Mirzapur;Majhawan;Chunar;Marihan
+Sonbhadra|400|Ghorawal;Robertsganj;Obra^;Duddhi^

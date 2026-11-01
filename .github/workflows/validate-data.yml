@@ -1,0 +1,21 @@
+name: Validate UP election data
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'scripts/validate.py'
+      - '.github/workflows/validate-data.yml'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'scripts/validate.py'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check JSON and district mappings
+        run: python scripts/validate.py

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "up-d001",
+    "state_code": "UP",
+    "name_en": "Agra",
+    "name_hi": "आगरा",
+    "slug": "agra",
+    "aliases": [],
+    "assembly_count": 9,
+    "assembly_numbers": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ]
+  },
+  {
+    "id": "up-d002",
+    "state_code": "UP",
+    "name_en": "Aligarh",
+    "name_hi": "अलीगढ़",
+    "slug": "aligarh",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ]
+  },
+  {
+    "id": "up-d003",
+    "state_code": "UP",
+    "name_en": "Ambedkar Nagar",
+    "name_hi": "अम्बेडकर नगर",
+    "slug": "ambedkar-nagar",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      277,
+      278,
+      279,
+      280,
+      281
+    ]
+  },
+  {
+    "id": "up-d004",
+    "state_code": "UP",
+    "name_en": "Amethi",
+    "name_hi": "अमेठी",
+    "slug": "amethi",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      178,
+      181,
+      184,
+      185,
+      186
+    ]
+  },
+  {
+    "id": "up-d005",
+    "state_code": "UP",
+    "name_en": "Amroha",
+    "name_hi": "अमरोहा",
+    "slug": "amroha",
+    "aliases": [
+      "Jyotiba Phule Nagar"
+    ],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      39,
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": "up-d006",
+    "state_code": "UP",
+    "name_en": "Auraiya",
+    "name_hi": "औरैया",
+    "slug": "auraiya",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      202,
+      203,
+      204
+    ]
+  },
+  {
+    "id": "up-d007",
+    "state_code": "UP",
+    "name_en": "Ayodhya",
+    "name_hi": "अयोध्या",
+    "slug": "ayodhya",
+    "aliases": [
+      "Faizabad"
+    ],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      271,
+      273,
+      274,
+      275,
+      276
+    ]
+  },
+  {
+    "id": "up-d008",
+    "state_code": "UP",
+    "name_en": "Azamgarh",
+    "name_hi": "आज़मगढ़",
+    "slug": "azamgarh",
+    "aliases": [],
+    "assembly_count": 10,
+    "assembly_numbers": [
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352
+    ]
+  },
+  {
+    "id": "up-d009",
+    "state_code": "UP",
+    "name_en": "Baghpat",
+    "name_hi": "बागपत",
+    "slug": "baghpat",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      50,
+      51,
+      52
+    ]
+  },
+  {
+    "id": "up-d010",
+    "state_code": "UP",
+    "name_en": "Bahraich",
+    "name_hi": "बहराइच",
+    "slug": "bahraich",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288
+    ]
+  },
+  {
+    "id": "up-d011",
+    "state_code": "UP",
+    "name_en": "Ballia",
+    "name_hi": "बलिया",
+    "slug": "ballia",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363
+    ]
+  },
+  {
+    "id": "up-d012",
+    "state_code": "UP",
+    "name_en": "Balrampur",
+    "name_hi": "बलरामपुर",
+    "slug": "balrampur",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      291,
+      292,
+      293,
+      294
+    ]
+  },
+  {
+    "id": "up-d013",
+    "state_code": "UP",
+    "name_en": "Banda",
+    "name_hi": "बांदा",
+    "slug": "banda",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      232,
+      233,
+      234,
+      235
+    ]
+  },
+  {
+    "id": "up-d014",
+    "state_code": "UP",
+    "name_en": "Barabanki",
+    "name_hi": "बाराबंकी",
+    "slug": "barabanki",
+    "aliases": [
+      "Bara Banki"
+    ],
+    "assembly_count": 6,
+    "assembly_numbers": [
+      266,
+      267,
+      268,
+      269,
+      270,
+      272
+    ]
+  },
+  {
+    "id": "up-d015",
+    "state_code": "UP",
+    "name_en": "Bareilly",
+    "name_hi": "बरेली",
+    "slug": "bareilly",
+    "aliases": [],
+    "assembly_count": 9,
+    "assembly_numbers": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ]
+  },
+  {
+    "id": "up-d016",
+    "state_code": "UP",
+    "name_en": "Basti",
+    "name_hi": "बस्ती",
+    "slug": "basti",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      307,
+      308,
+      309,
+      310,
+      311
+    ]
+  },
+  {
+    "id": "up-d017",
+    "state_code": "UP",
+    "name_en": "Bhadohi",
+    "name_hi": "भदोही",
+    "slug": "bhadohi",
+    "aliases": [
+      "Sant Ravidas Nagar"
+    ],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      392,
+      393,
+      394
+    ]
+  },
+  {
+    "id": "up-d018",
+    "state_code": "UP",
+    "name_en": "Bijnor",
+    "name_hi": "बिजनौर",
+    "slug": "bijnor",
+    "aliases": [],
+    "assembly_count": 8,
+    "assembly_numbers": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "up-d019",
+    "state_code": "UP",
+    "name_en": "Budaun",
+    "name_hi": "बदायूँ",
+    "slug": "budaun",
+    "aliases": [
+      "Badaun",
+      "Budaun District"
+    ],
+    "assembly_count": 6,
+    "assembly_numbers": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ]
+  },
+  {
+    "id": "up-d020",
+    "state_code": "UP",
+    "name_en": "Bulandshahr",
+    "name_hi": "बुलंदशहर",
+    "slug": "bulandshahr",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "id": "up-d021",
+    "state_code": "UP",
+    "name_en": "Chandauli",
+    "name_hi": "चंदौली",
+    "slug": "chandauli",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      380,
+      381,
+      382,
+      383
+    ]
+  },
+  {
+    "id": "up-d022",
+    "state_code": "UP",
+    "name_en": "Chitrakoot",
+    "name_hi": "चित्रकूट",
+    "slug": "chitrakoot",
+    "aliases": [],
+    "assembly_count": 2,
+    "assembly_numbers": [
+      236,
+      237
+    ]
+  },
+  {
+    "id": "up-d023",
+    "state_code": "UP",
+    "name_en": "Deoria",
+    "name_hi": "देवरिया",
+    "slug": "deoria",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342
+    ]
+  },
+  {
+    "id": "up-d024",
+    "state_code": "UP",
+    "name_en": "Etah",
+    "name_hi": "एटा",
+    "slug": "etah",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      103,
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "id": "up-d025",
+    "state_code": "UP",
+    "name_en": "Etawah",
+    "name_hi": "इटावा",
+    "slug": "etawah",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      199,
+      200,
+      201
+    ]
+  },
+  {
+    "id": "up-d026",
+    "state_code": "UP",
+    "name_en": "Farrukhabad",
+    "name_hi": "फर्रुखाबाद",
+    "slug": "farrukhabad",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      192,
+      193,
+      194,
+      195
+    ]
+  },
+  {
+    "id": "up-d027",
+    "state_code": "UP",
+    "name_en": "Fatehpur",
+    "name_hi": "फतेहपुर",
+    "slug": "fatehpur",
+    "aliases": [],
+    "assembly_count": 6,
+    "assembly_numbers": [
+      238,
+      239,
+      240,
+      241,
+      242,
+      243
+    ]
+  },
+  {
+    "id": "up-d028",
+    "state_code": "UP",
+    "name_en": "Firozabad",
+    "name_hi": "फिरोजाबाद",
+    "slug": "firozabad",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      95,
+      96,
+      97,
+      98,
+      99
+    ]
+  },
+  {
+    "id": "up-d029",
+    "state_code": "UP",
+    "name_en": "Gautam Buddha Nagar",
+    "name_hi": "गौतम बुद्ध नगर",
+    "slug": "gautam-buddha-nagar",
+    "aliases": [
+      "Gautam Budh Nagar",
+      "GB Nagar"
+    ],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      61,
+      62,
+      63
+    ]
+  },
+  {
+    "id": "up-d030",
+    "state_code": "UP",
+    "name_en": "Ghaziabad",
+    "name_hi": "गाजियाबाद",
+    "slug": "ghaziabad",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ]
+  },
+  {
+    "id": "up-d031",
+    "state_code": "UP",
+    "name_en": "Ghazipur",
+    "name_hi": "गाजीपुर",
+    "slug": "ghazipur",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379
+    ]
+  },
+  {
+    "id": "up-d032",
+    "state_code": "UP",
+    "name_en": "Gonda",
+    "name_hi": "गोंडा",
+    "slug": "gonda",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301
+    ]
+  },
+  {
+    "id": "up-d033",
+    "state_code": "UP",
+    "name_en": "Gorakhpur",
+    "name_hi": "गोरखपुर",
+    "slug": "gorakhpur",
+    "aliases": [],
+    "assembly_count": 9,
+    "assembly_numbers": [
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328
+    ]
+  },
+  {
+    "id": "up-d034",
+    "state_code": "UP",
+    "name_en": "Hamirpur",
+    "name_hi": "हमीरपुर",
+    "slug": "hamirpur",
+    "aliases": [],
+    "assembly_count": 2,
+    "assembly_numbers": [
+      228,
+      229
+    ]
+  },
+  {
+    "id": "up-d035",
+    "state_code": "UP",
+    "name_en": "Hapur",
+    "name_hi": "हापुड़",
+    "slug": "hapur",
+    "aliases": [
+      "Panchsheel Nagar"
+    ],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      58,
+      59,
+      60
+    ]
+  },
+  {
+    "id": "up-d036",
+    "state_code": "UP",
+    "name_en": "Hardoi",
+    "name_hi": "हरदोई",
+    "slug": "hardoi",
+    "aliases": [],
+    "assembly_count": 8,
+    "assembly_numbers": [
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161
+    ]
+  },
+  {
+    "id": "up-d037",
+    "state_code": "UP",
+    "name_en": "Hathras",
+    "name_hi": "हाथरस",
+    "slug": "hathras",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      78,
+      79,
+      80
+    ]
+  },
+  {
+    "id": "up-d038",
+    "state_code": "UP",
+    "name_en": "Jalaun",
+    "name_hi": "जालौन",
+    "slug": "jalaun",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      219,
+      220,
+      221
+    ]
+  },
+  {
+    "id": "up-d039",
+    "state_code": "UP",
+    "name_en": "Jaunpur",
+    "name_hi": "जौनपुर",
+    "slug": "jaunpur",
+    "aliases": [],
+    "assembly_count": 9,
+    "assembly_numbers": [
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372
+    ]
+  },
+  {
+    "id": "up-d040",
+    "state_code": "UP",
+    "name_en": "Jhansi",
+    "name_hi": "झांसी",
+    "slug": "jhansi",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      222,
+      223,
+      224,
+      225
+    ]
+  },
+  {
+    "id": "up-d041",
+    "state_code": "UP",
+    "name_en": "Kannauj",
+    "name_hi": "कन्नौज",
+    "slug": "kannauj",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      196,
+      197,
+      198
+    ]
+  },
+  {
+    "id": "up-d042",
+    "state_code": "UP",
+    "name_en": "Kanpur Dehat",
+    "name_hi": "कानपुर देहात",
+    "slug": "kanpur-dehat",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      205,
+      206,
+      207,
+      208
+    ]
+  },
+  {
+    "id": "up-d043",
+    "state_code": "UP",
+    "name_en": "Kanpur Nagar",
+    "name_hi": "कानपुर नगर",
+    "slug": "kanpur-nagar",
+    "aliases": [],
+    "assembly_count": 10,
+    "assembly_numbers": [
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218
+    ]
+  },
+  {
+    "id": "up-d044",
+    "state_code": "UP",
+    "name_en": "Kasganj",
+    "name_hi": "कासगंज",
+    "slug": "kasganj",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      100,
+      101,
+      102
+    ]
+  },
+  {
+    "id": "up-d045",
+    "state_code": "UP",
+    "name_en": "Kaushambi",
+    "name_hi": "कौशाम्बी",
+    "slug": "kaushambi",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      251,
+      252,
+      253
+    ]
+  },
+  {
+    "id": "up-d046",
+    "state_code": "UP",
+    "name_en": "Kushinagar",
+    "name_hi": "कुशीनगर",
+    "slug": "kushinagar",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335
+    ]
+  },
+  {
+    "id": "up-d047",
+    "state_code": "UP",
+    "name_en": "Lakhimpur Kheri",
+    "name_hi": "लखीमपुर खीरी",
+    "slug": "lakhimpur-kheri",
+    "aliases": [
+      "Kheri",
+      "Lakhimpur-Kheri"
+    ],
+    "assembly_count": 8,
+    "assembly_numbers": [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ]
+  },
+  {
+    "id": "up-d048",
+    "state_code": "UP",
+    "name_en": "Lalitpur",
+    "name_hi": "ललितपुर",
+    "slug": "lalitpur",
+    "aliases": [],
+    "assembly_count": 2,
+    "assembly_numbers": [
+      226,
+      227
+    ]
+  },
+  {
+    "id": "up-d049",
+    "state_code": "UP",
+    "name_en": "Lucknow",
+    "name_hi": "लखनऊ",
+    "slug": "lucknow",
+    "aliases": [],
+    "assembly_count": 9,
+    "assembly_numbers": [
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176
+    ]
+  },
+  {
+    "id": "up-d050",
+    "state_code": "UP",
+    "name_en": "Maharajganj",
+    "name_hi": "महाराजगंज",
+    "slug": "maharajganj",
+    "aliases": [
+      "Mahrajganj"
+    ],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      315,
+      316,
+      317,
+      318,
+      319
+    ]
+  },
+  {
+    "id": "up-d051",
+    "state_code": "UP",
+    "name_en": "Mahoba",
+    "name_hi": "महोबा",
+    "slug": "mahoba",
+    "aliases": [],
+    "assembly_count": 2,
+    "assembly_numbers": [
+      230,
+      231
+    ]
+  },
+  {
+    "id": "up-d052",
+    "state_code": "UP",
+    "name_en": "Mainpuri",
+    "name_hi": "मैनपुरी",
+    "slug": "mainpuri",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      107,
+      108,
+      109,
+      110
+    ]
+  },
+  {
+    "id": "up-d053",
+    "state_code": "UP",
+    "name_en": "Mathura",
+    "name_hi": "मथुरा",
+    "slug": "mathura",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ]
+  },
+  {
+    "id": "up-d054",
+    "state_code": "UP",
+    "name_en": "Mau",
+    "name_hi": "मऊ",
+    "slug": "mau",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      353,
+      354,
+      355,
+      356
+    ]
+  },
+  {
+    "id": "up-d055",
+    "state_code": "UP",
+    "name_en": "Meerut",
+    "name_hi": "मेरठ",
+    "slug": "meerut",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "id": "up-d056",
+    "state_code": "UP",
+    "name_en": "Mirzapur",
+    "name_hi": "मिर्जापुर",
+    "slug": "mirzapur",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      395,
+      396,
+      397,
+      398,
+      399
+    ]
+  },
+  {
+    "id": "up-d057",
+    "state_code": "UP",
+    "name_en": "Moradabad",
+    "name_hi": "मुरादाबाद",
+    "slug": "moradabad",
+    "aliases": [],
+    "assembly_count": 6,
+    "assembly_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "id": "up-d058",
+    "state_code": "UP",
+    "name_en": "Muzaffarnagar",
+    "name_hi": "मुजफ्फरनगर",
+    "slug": "muzaffarnagar",
+    "aliases": [],
+    "assembly_count": 6,
+    "assembly_numbers": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": "up-d059",
+    "state_code": "UP",
+    "name_en": "Pilibhit",
+    "name_hi": "पीलीभीत",
+    "slug": "pilibhit",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      127,
+      128,
+      129,
+      130
+    ]
+  },
+  {
+    "id": "up-d060",
+    "state_code": "UP",
+    "name_en": "Pratapgarh",
+    "name_hi": "प्रतापगढ़",
+    "slug": "pratapgarh",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250
+    ]
+  },
+  {
+    "id": "up-d061",
+    "state_code": "UP",
+    "name_en": "Prayagraj",
+    "name_hi": "प्रयागराज",
+    "slug": "prayagraj",
+    "aliases": [
+      "Allahabad"
+    ],
+    "assembly_count": 12,
+    "assembly_numbers": [
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265
+    ]
+  },
+  {
+    "id": "up-d062",
+    "state_code": "UP",
+    "name_en": "Raebareli",
+    "name_hi": "रायबरेली",
+    "slug": "raebareli",
+    "aliases": [
+      "Rae Bareli",
+      "Rai Bareilly"
+    ],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      177,
+      179,
+      180,
+      182,
+      183
+    ]
+  },
+  {
+    "id": "up-d063",
+    "state_code": "UP",
+    "name_en": "Rampur",
+    "name_hi": "रामपुर",
+    "slug": "rampur",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  {
+    "id": "up-d064",
+    "state_code": "UP",
+    "name_en": "Saharanpur",
+    "name_hi": "सहारनपुर",
+    "slug": "saharanpur",
+    "aliases": [],
+    "assembly_count": 7,
+    "assembly_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": "up-d065",
+    "state_code": "UP",
+    "name_en": "Sambhal",
+    "name_hi": "संभल",
+    "slug": "sambhal",
+    "aliases": [
+      "Bhim Nagar"
+    ],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      31,
+      32,
+      33,
+      111
+    ]
+  },
+  {
+    "id": "up-d066",
+    "state_code": "UP",
+    "name_en": "Sant Kabir Nagar",
+    "name_hi": "संत कबीर नगर",
+    "slug": "sant-kabir-nagar",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      312,
+      313,
+      314
+    ]
+  },
+  {
+    "id": "up-d067",
+    "state_code": "UP",
+    "name_en": "Shahjahanpur",
+    "name_hi": "शाहजहांपुर",
+    "slug": "shahjahanpur",
+    "aliases": [],
+    "assembly_count": 6,
+    "assembly_numbers": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ]
+  },
+  {
+    "id": "up-d068",
+    "state_code": "UP",
+    "name_en": "Shamli",
+    "name_hi": "शामली",
+    "slug": "shamli",
+    "aliases": [],
+    "assembly_count": 3,
+    "assembly_numbers": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "up-d069",
+    "state_code": "UP",
+    "name_en": "Shrawasti",
+    "name_hi": "श्रावस्ती",
+    "slug": "shrawasti",
+    "aliases": [
+      "Shravasti"
+    ],
+    "assembly_count": 2,
+    "assembly_numbers": [
+      289,
+      290
+    ]
+  },
+  {
+    "id": "up-d070",
+    "state_code": "UP",
+    "name_en": "Siddharthnagar",
+    "name_hi": "सिद्धार्थनगर",
+    "slug": "siddharthnagar",
+    "aliases": [
+      "Siddharth Nagar"
+    ],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      302,
+      303,
+      304,
+      305,
+      306
+    ]
+  },
+  {
+    "id": "up-d071",
+    "state_code": "UP",
+    "name_en": "Sitapur",
+    "name_hi": "सीतापुर",
+    "slug": "sitapur",
+    "aliases": [],
+    "assembly_count": 9,
+    "assembly_numbers": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153
+    ]
+  },
+  {
+    "id": "up-d072",
+    "state_code": "UP",
+    "name_en": "Sonbhadra",
+    "name_hi": "सोनभद्र",
+    "slug": "sonbhadra",
+    "aliases": [],
+    "assembly_count": 4,
+    "assembly_numbers": [
+      400,
+      401,
+      402,
+      403
+    ]
+  },
+  {
+    "id": "up-d073",
+    "state_code": "UP",
+    "name_en": "Sultanpur",
+    "name_hi": "सुल्तानपुर",
+    "slug": "sultanpur",
+    "aliases": [],
+    "assembly_count": 5,
+    "assembly_numbers": [
+      187,
+      188,
+      189,
+      190,
+      191
+    ]
+  },
+  {
+    "id": "up-d074",
+    "state_code": "UP",
+    "name_en": "Unnao",
+    "name_hi": "उन्नाव",
+    "slug": "unnao",
+    "aliases": [],
+    "assembly_count": 6,
+    "assembly_numbers": [
+      162,
+      163,
+      164,
+      165,
+      166,
+      167
+    ]
+  },
+  {
+    "id": "up-d075",
+    "state_code": "UP",
+    "name_en": "Varanasi",
+    "name_hi": "वाराणसी",
+    "slug": "varanasi",
+    "aliases": [],
+    "assembly_count": 8,
+    "assembly_numbers": [
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391
+    ]
+  }
+]

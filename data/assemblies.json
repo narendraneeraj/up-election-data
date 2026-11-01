@@ -1,0 +1,5695 @@
+[
+  {
+    "ac_number": 1,
+    "name_en": "Behat",
+    "reservation": "GEN",
+    "primary_district_id": "up-d064",
+    "district_ids": [
+      "up-d064"
+    ],
+    "district_name_en": "Saharanpur",
+    "aliases": [],
+    "slug": "behat",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 2,
+    "name_en": "Nakur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d064",
+    "district_ids": [
+      "up-d064"
+    ],
+    "district_name_en": "Saharanpur",
+    "aliases": [],
+    "slug": "nakur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 3,
+    "name_en": "Saharanpur Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d064",
+    "district_ids": [
+      "up-d064"
+    ],
+    "district_name_en": "Saharanpur",
+    "aliases": [],
+    "slug": "saharanpur-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 4,
+    "name_en": "Saharanpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d064",
+    "district_ids": [
+      "up-d064"
+    ],
+    "district_name_en": "Saharanpur",
+    "aliases": [],
+    "slug": "saharanpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 5,
+    "name_en": "Deoband",
+    "reservation": "GEN",
+    "primary_district_id": "up-d064",
+    "district_ids": [
+      "up-d064"
+    ],
+    "district_name_en": "Saharanpur",
+    "aliases": [],
+    "slug": "deoband",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 6,
+    "name_en": "Rampur Maniharan",
+    "reservation": "SC",
+    "primary_district_id": "up-d064",
+    "district_ids": [
+      "up-d064"
+    ],
+    "district_name_en": "Saharanpur",
+    "aliases": [],
+    "slug": "rampur-maniharan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 7,
+    "name_en": "Gangoh",
+    "reservation": "GEN",
+    "primary_district_id": "up-d064",
+    "district_ids": [
+      "up-d064"
+    ],
+    "district_name_en": "Saharanpur",
+    "aliases": [],
+    "slug": "gangoh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 8,
+    "name_en": "Kairana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d068",
+    "district_ids": [
+      "up-d068"
+    ],
+    "district_name_en": "Shamli",
+    "aliases": [],
+    "slug": "kairana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 9,
+    "name_en": "Thana Bhawan",
+    "reservation": "GEN",
+    "primary_district_id": "up-d068",
+    "district_ids": [
+      "up-d068"
+    ],
+    "district_name_en": "Shamli",
+    "aliases": [],
+    "slug": "thana-bhawan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 10,
+    "name_en": "Shamli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d068",
+    "district_ids": [
+      "up-d068"
+    ],
+    "district_name_en": "Shamli",
+    "aliases": [],
+    "slug": "shamli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 11,
+    "name_en": "Budhana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d058",
+    "district_ids": [
+      "up-d058"
+    ],
+    "district_name_en": "Muzaffarnagar",
+    "aliases": [],
+    "slug": "budhana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 12,
+    "name_en": "Charthawal",
+    "reservation": "GEN",
+    "primary_district_id": "up-d058",
+    "district_ids": [
+      "up-d058"
+    ],
+    "district_name_en": "Muzaffarnagar",
+    "aliases": [],
+    "slug": "charthawal",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 13,
+    "name_en": "Purqazi",
+    "reservation": "SC",
+    "primary_district_id": "up-d058",
+    "district_ids": [
+      "up-d058"
+    ],
+    "district_name_en": "Muzaffarnagar",
+    "aliases": [],
+    "slug": "purqazi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 14,
+    "name_en": "Muzaffarnagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d058",
+    "district_ids": [
+      "up-d058"
+    ],
+    "district_name_en": "Muzaffarnagar",
+    "aliases": [],
+    "slug": "muzaffarnagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 15,
+    "name_en": "Khatauli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d058",
+    "district_ids": [
+      "up-d058"
+    ],
+    "district_name_en": "Muzaffarnagar",
+    "aliases": [],
+    "slug": "khatauli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 16,
+    "name_en": "Meerapur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d058",
+    "district_ids": [
+      "up-d058"
+    ],
+    "district_name_en": "Muzaffarnagar",
+    "aliases": [],
+    "slug": "meerapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 17,
+    "name_en": "Najibabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d018",
+    "district_ids": [
+      "up-d018"
+    ],
+    "district_name_en": "Bijnor",
+    "aliases": [],
+    "slug": "najibabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 18,
+    "name_en": "Nagina",
+    "reservation": "SC",
+    "primary_district_id": "up-d018",
+    "district_ids": [
+      "up-d018"
+    ],
+    "district_name_en": "Bijnor",
+    "aliases": [],
+    "slug": "nagina",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 19,
+    "name_en": "Barhapur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d018",
+    "district_ids": [
+      "up-d018"
+    ],
+    "district_name_en": "Bijnor",
+    "aliases": [],
+    "slug": "barhapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 20,
+    "name_en": "Dhampur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d018",
+    "district_ids": [
+      "up-d018"
+    ],
+    "district_name_en": "Bijnor",
+    "aliases": [],
+    "slug": "dhampur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 21,
+    "name_en": "Nehtaur",
+    "reservation": "SC",
+    "primary_district_id": "up-d018",
+    "district_ids": [
+      "up-d018"
+    ],
+    "district_name_en": "Bijnor",
+    "aliases": [],
+    "slug": "nehtaur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 22,
+    "name_en": "Bijnor",
+    "reservation": "GEN",
+    "primary_district_id": "up-d018",
+    "district_ids": [
+      "up-d018"
+    ],
+    "district_name_en": "Bijnor",
+    "aliases": [],
+    "slug": "bijnor",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 23,
+    "name_en": "Chandpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d018",
+    "district_ids": [
+      "up-d018"
+    ],
+    "district_name_en": "Bijnor",
+    "aliases": [],
+    "slug": "chandpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 24,
+    "name_en": "Noorpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d018",
+    "district_ids": [
+      "up-d018"
+    ],
+    "district_name_en": "Bijnor",
+    "aliases": [],
+    "slug": "noorpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 25,
+    "name_en": "Kanth",
+    "reservation": "GEN",
+    "primary_district_id": "up-d057",
+    "district_ids": [
+      "up-d057"
+    ],
+    "district_name_en": "Moradabad",
+    "aliases": [],
+    "slug": "kanth",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 26,
+    "name_en": "Thakurdwara",
+    "reservation": "GEN",
+    "primary_district_id": "up-d057",
+    "district_ids": [
+      "up-d057"
+    ],
+    "district_name_en": "Moradabad",
+    "aliases": [],
+    "slug": "thakurdwara",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 27,
+    "name_en": "Moradabad Rural",
+    "reservation": "GEN",
+    "primary_district_id": "up-d057",
+    "district_ids": [
+      "up-d057"
+    ],
+    "district_name_en": "Moradabad",
+    "aliases": [],
+    "slug": "moradabad-rural",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 28,
+    "name_en": "Moradabad Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d057",
+    "district_ids": [
+      "up-d057"
+    ],
+    "district_name_en": "Moradabad",
+    "aliases": [],
+    "slug": "moradabad-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 29,
+    "name_en": "Kundarki",
+    "reservation": "GEN",
+    "primary_district_id": "up-d057",
+    "district_ids": [
+      "up-d057"
+    ],
+    "district_name_en": "Moradabad",
+    "aliases": [],
+    "slug": "kundarki",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 30,
+    "name_en": "Bilari",
+    "reservation": "GEN",
+    "primary_district_id": "up-d057",
+    "district_ids": [
+      "up-d057",
+      "up-d065"
+    ],
+    "district_name_en": "Moradabad",
+    "aliases": [
+      "Bilari (partly Sambhal district)"
+    ],
+    "slug": "bilari",
+    "state_code": "UP",
+    "cross_district": true
+  },
+  {
+    "ac_number": 31,
+    "name_en": "Chandausi",
+    "reservation": "SC",
+    "primary_district_id": "up-d065",
+    "district_ids": [
+      "up-d065"
+    ],
+    "district_name_en": "Sambhal",
+    "aliases": [],
+    "slug": "chandausi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 32,
+    "name_en": "Asmoli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d065",
+    "district_ids": [
+      "up-d065"
+    ],
+    "district_name_en": "Sambhal",
+    "aliases": [],
+    "slug": "asmoli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 33,
+    "name_en": "Sambhal",
+    "reservation": "GEN",
+    "primary_district_id": "up-d065",
+    "district_ids": [
+      "up-d065"
+    ],
+    "district_name_en": "Sambhal",
+    "aliases": [],
+    "slug": "sambhal",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 34,
+    "name_en": "Suar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d063",
+    "district_ids": [
+      "up-d063"
+    ],
+    "district_name_en": "Rampur",
+    "aliases": [],
+    "slug": "suar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 35,
+    "name_en": "Chamraua",
+    "reservation": "GEN",
+    "primary_district_id": "up-d063",
+    "district_ids": [
+      "up-d063"
+    ],
+    "district_name_en": "Rampur",
+    "aliases": [],
+    "slug": "chamraua",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 36,
+    "name_en": "Bilaspur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d063",
+    "district_ids": [
+      "up-d063"
+    ],
+    "district_name_en": "Rampur",
+    "aliases": [],
+    "slug": "bilaspur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 37,
+    "name_en": "Rampur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d063",
+    "district_ids": [
+      "up-d063"
+    ],
+    "district_name_en": "Rampur",
+    "aliases": [],
+    "slug": "rampur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 38,
+    "name_en": "Milak",
+    "reservation": "SC",
+    "primary_district_id": "up-d063",
+    "district_ids": [
+      "up-d063"
+    ],
+    "district_name_en": "Rampur",
+    "aliases": [],
+    "slug": "milak",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 39,
+    "name_en": "Dhanaura",
+    "reservation": "SC",
+    "primary_district_id": "up-d005",
+    "district_ids": [
+      "up-d005"
+    ],
+    "district_name_en": "Amroha",
+    "aliases": [],
+    "slug": "dhanaura",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 40,
+    "name_en": "Naugawan Sadat",
+    "reservation": "GEN",
+    "primary_district_id": "up-d005",
+    "district_ids": [
+      "up-d005"
+    ],
+    "district_name_en": "Amroha",
+    "aliases": [],
+    "slug": "naugawan-sadat",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 41,
+    "name_en": "Amroha",
+    "reservation": "GEN",
+    "primary_district_id": "up-d005",
+    "district_ids": [
+      "up-d005"
+    ],
+    "district_name_en": "Amroha",
+    "aliases": [],
+    "slug": "amroha",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 42,
+    "name_en": "Hasanpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d005",
+    "district_ids": [
+      "up-d005"
+    ],
+    "district_name_en": "Amroha",
+    "aliases": [],
+    "slug": "hasanpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 43,
+    "name_en": "Siwalkhas",
+    "reservation": "GEN",
+    "primary_district_id": "up-d055",
+    "district_ids": [
+      "up-d055"
+    ],
+    "district_name_en": "Meerut",
+    "aliases": [],
+    "slug": "siwalkhas",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 44,
+    "name_en": "Sardhana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d055",
+    "district_ids": [
+      "up-d055"
+    ],
+    "district_name_en": "Meerut",
+    "aliases": [],
+    "slug": "sardhana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 45,
+    "name_en": "Hastinapur",
+    "reservation": "SC",
+    "primary_district_id": "up-d055",
+    "district_ids": [
+      "up-d055"
+    ],
+    "district_name_en": "Meerut",
+    "aliases": [],
+    "slug": "hastinapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 46,
+    "name_en": "Kithore",
+    "reservation": "GEN",
+    "primary_district_id": "up-d055",
+    "district_ids": [
+      "up-d055"
+    ],
+    "district_name_en": "Meerut",
+    "aliases": [],
+    "slug": "kithore",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 47,
+    "name_en": "Meerut Cantt.",
+    "reservation": "GEN",
+    "primary_district_id": "up-d055",
+    "district_ids": [
+      "up-d055"
+    ],
+    "district_name_en": "Meerut",
+    "aliases": [],
+    "slug": "meerut-cantt",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 48,
+    "name_en": "Meerut",
+    "reservation": "GEN",
+    "primary_district_id": "up-d055",
+    "district_ids": [
+      "up-d055"
+    ],
+    "district_name_en": "Meerut",
+    "aliases": [],
+    "slug": "meerut",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 49,
+    "name_en": "Meerut South",
+    "reservation": "GEN",
+    "primary_district_id": "up-d055",
+    "district_ids": [
+      "up-d055"
+    ],
+    "district_name_en": "Meerut",
+    "aliases": [],
+    "slug": "meerut-south",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 50,
+    "name_en": "Chhaprauli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d009",
+    "district_ids": [
+      "up-d009"
+    ],
+    "district_name_en": "Baghpat",
+    "aliases": [],
+    "slug": "chhaprauli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 51,
+    "name_en": "Baraut",
+    "reservation": "GEN",
+    "primary_district_id": "up-d009",
+    "district_ids": [
+      "up-d009"
+    ],
+    "district_name_en": "Baghpat",
+    "aliases": [],
+    "slug": "baraut",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 52,
+    "name_en": "Baghpat",
+    "reservation": "GEN",
+    "primary_district_id": "up-d009",
+    "district_ids": [
+      "up-d009"
+    ],
+    "district_name_en": "Baghpat",
+    "aliases": [],
+    "slug": "baghpat",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 53,
+    "name_en": "Loni",
+    "reservation": "GEN",
+    "primary_district_id": "up-d030",
+    "district_ids": [
+      "up-d030"
+    ],
+    "district_name_en": "Ghaziabad",
+    "aliases": [],
+    "slug": "loni",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 54,
+    "name_en": "Muradnagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d030",
+    "district_ids": [
+      "up-d030"
+    ],
+    "district_name_en": "Ghaziabad",
+    "aliases": [],
+    "slug": "muradnagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 55,
+    "name_en": "Sahibabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d030",
+    "district_ids": [
+      "up-d030"
+    ],
+    "district_name_en": "Ghaziabad",
+    "aliases": [],
+    "slug": "sahibabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 56,
+    "name_en": "Ghaziabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d030",
+    "district_ids": [
+      "up-d030"
+    ],
+    "district_name_en": "Ghaziabad",
+    "aliases": [],
+    "slug": "ghaziabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 57,
+    "name_en": "Modinagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d030",
+    "district_ids": [
+      "up-d030"
+    ],
+    "district_name_en": "Ghaziabad",
+    "aliases": [],
+    "slug": "modinagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 58,
+    "name_en": "Dhaulana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d035",
+    "district_ids": [
+      "up-d035",
+      "up-d030"
+    ],
+    "district_name_en": "Hapur",
+    "aliases": [
+      "Dhaulana (partly Ghaziabad district)"
+    ],
+    "slug": "dhaulana",
+    "state_code": "UP",
+    "cross_district": true
+  },
+  {
+    "ac_number": 59,
+    "name_en": "Hapur",
+    "reservation": "SC",
+    "primary_district_id": "up-d035",
+    "district_ids": [
+      "up-d035"
+    ],
+    "district_name_en": "Hapur",
+    "aliases": [],
+    "slug": "hapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 60,
+    "name_en": "Garhmukteshwar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d035",
+    "district_ids": [
+      "up-d035"
+    ],
+    "district_name_en": "Hapur",
+    "aliases": [],
+    "slug": "garhmukteshwar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 61,
+    "name_en": "Noida",
+    "reservation": "GEN",
+    "primary_district_id": "up-d029",
+    "district_ids": [
+      "up-d029"
+    ],
+    "district_name_en": "Gautam Buddha Nagar",
+    "aliases": [],
+    "slug": "noida",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 62,
+    "name_en": "Dadri",
+    "reservation": "GEN",
+    "primary_district_id": "up-d029",
+    "district_ids": [
+      "up-d029"
+    ],
+    "district_name_en": "Gautam Buddha Nagar",
+    "aliases": [],
+    "slug": "dadri",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 63,
+    "name_en": "Jewar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d029",
+    "district_ids": [
+      "up-d029"
+    ],
+    "district_name_en": "Gautam Buddha Nagar",
+    "aliases": [],
+    "slug": "jewar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 64,
+    "name_en": "Sikandrabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d020",
+    "district_ids": [
+      "up-d020"
+    ],
+    "district_name_en": "Bulandshahr",
+    "aliases": [],
+    "slug": "sikandrabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 65,
+    "name_en": "Bulandshahr",
+    "reservation": "GEN",
+    "primary_district_id": "up-d020",
+    "district_ids": [
+      "up-d020"
+    ],
+    "district_name_en": "Bulandshahr",
+    "aliases": [],
+    "slug": "bulandshahr",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 66,
+    "name_en": "Syana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d020",
+    "district_ids": [
+      "up-d020"
+    ],
+    "district_name_en": "Bulandshahr",
+    "aliases": [],
+    "slug": "syana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 67,
+    "name_en": "Anupshahr",
+    "reservation": "GEN",
+    "primary_district_id": "up-d020",
+    "district_ids": [
+      "up-d020"
+    ],
+    "district_name_en": "Bulandshahr",
+    "aliases": [],
+    "slug": "anupshahr",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 68,
+    "name_en": "Debai",
+    "reservation": "GEN",
+    "primary_district_id": "up-d020",
+    "district_ids": [
+      "up-d020"
+    ],
+    "district_name_en": "Bulandshahr",
+    "aliases": [],
+    "slug": "debai",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 69,
+    "name_en": "Shikarpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d020",
+    "district_ids": [
+      "up-d020"
+    ],
+    "district_name_en": "Bulandshahr",
+    "aliases": [],
+    "slug": "shikarpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 70,
+    "name_en": "Khurja",
+    "reservation": "SC",
+    "primary_district_id": "up-d020",
+    "district_ids": [
+      "up-d020"
+    ],
+    "district_name_en": "Bulandshahr",
+    "aliases": [],
+    "slug": "khurja",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 71,
+    "name_en": "Khair",
+    "reservation": "SC",
+    "primary_district_id": "up-d002",
+    "district_ids": [
+      "up-d002"
+    ],
+    "district_name_en": "Aligarh",
+    "aliases": [],
+    "slug": "khair",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 72,
+    "name_en": "Barauli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d002",
+    "district_ids": [
+      "up-d002"
+    ],
+    "district_name_en": "Aligarh",
+    "aliases": [],
+    "slug": "barauli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 73,
+    "name_en": "Atrauli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d002",
+    "district_ids": [
+      "up-d002"
+    ],
+    "district_name_en": "Aligarh",
+    "aliases": [],
+    "slug": "atrauli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 74,
+    "name_en": "Chharra",
+    "reservation": "GEN",
+    "primary_district_id": "up-d002",
+    "district_ids": [
+      "up-d002"
+    ],
+    "district_name_en": "Aligarh",
+    "aliases": [],
+    "slug": "chharra",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 75,
+    "name_en": "Koil",
+    "reservation": "GEN",
+    "primary_district_id": "up-d002",
+    "district_ids": [
+      "up-d002"
+    ],
+    "district_name_en": "Aligarh",
+    "aliases": [],
+    "slug": "koil",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 76,
+    "name_en": "Aligarh",
+    "reservation": "GEN",
+    "primary_district_id": "up-d002",
+    "district_ids": [
+      "up-d002"
+    ],
+    "district_name_en": "Aligarh",
+    "aliases": [],
+    "slug": "aligarh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 77,
+    "name_en": "Iglas",
+    "reservation": "SC",
+    "primary_district_id": "up-d002",
+    "district_ids": [
+      "up-d002"
+    ],
+    "district_name_en": "Aligarh",
+    "aliases": [],
+    "slug": "iglas",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 78,
+    "name_en": "Hathras",
+    "reservation": "SC",
+    "primary_district_id": "up-d037",
+    "district_ids": [
+      "up-d037"
+    ],
+    "district_name_en": "Hathras",
+    "aliases": [],
+    "slug": "hathras",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 79,
+    "name_en": "Sadabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d037",
+    "district_ids": [
+      "up-d037"
+    ],
+    "district_name_en": "Hathras",
+    "aliases": [],
+    "slug": "sadabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 80,
+    "name_en": "Sikandra Rao",
+    "reservation": "GEN",
+    "primary_district_id": "up-d037",
+    "district_ids": [
+      "up-d037"
+    ],
+    "district_name_en": "Hathras",
+    "aliases": [],
+    "slug": "sikandra-rao",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 81,
+    "name_en": "Chhata",
+    "reservation": "GEN",
+    "primary_district_id": "up-d053",
+    "district_ids": [
+      "up-d053"
+    ],
+    "district_name_en": "Mathura",
+    "aliases": [],
+    "slug": "chhata",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 82,
+    "name_en": "Mant",
+    "reservation": "GEN",
+    "primary_district_id": "up-d053",
+    "district_ids": [
+      "up-d053"
+    ],
+    "district_name_en": "Mathura",
+    "aliases": [],
+    "slug": "mant",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 83,
+    "name_en": "Goverdhan",
+    "reservation": "GEN",
+    "primary_district_id": "up-d053",
+    "district_ids": [
+      "up-d053"
+    ],
+    "district_name_en": "Mathura",
+    "aliases": [
+      "Govardhan"
+    ],
+    "slug": "goverdhan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 84,
+    "name_en": "Mathura",
+    "reservation": "GEN",
+    "primary_district_id": "up-d053",
+    "district_ids": [
+      "up-d053"
+    ],
+    "district_name_en": "Mathura",
+    "aliases": [],
+    "slug": "mathura",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 85,
+    "name_en": "Baldev",
+    "reservation": "SC",
+    "primary_district_id": "up-d053",
+    "district_ids": [
+      "up-d053"
+    ],
+    "district_name_en": "Mathura",
+    "aliases": [],
+    "slug": "baldev",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 86,
+    "name_en": "Etmadpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "etmadpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 87,
+    "name_en": "Agra Cantt.",
+    "reservation": "SC",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "agra-cantt",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 88,
+    "name_en": "Agra South",
+    "reservation": "GEN",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "agra-south",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 89,
+    "name_en": "Agra North",
+    "reservation": "GEN",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "agra-north",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 90,
+    "name_en": "Agra Rural",
+    "reservation": "SC",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "agra-rural",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 91,
+    "name_en": "Fatehpur Sikri",
+    "reservation": "GEN",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "fatehpur-sikri",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 92,
+    "name_en": "Kheragarh",
+    "reservation": "GEN",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "kheragarh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 93,
+    "name_en": "Fatehabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "fatehabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 94,
+    "name_en": "Bah",
+    "reservation": "GEN",
+    "primary_district_id": "up-d001",
+    "district_ids": [
+      "up-d001"
+    ],
+    "district_name_en": "Agra",
+    "aliases": [],
+    "slug": "bah",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 95,
+    "name_en": "Tundla",
+    "reservation": "SC",
+    "primary_district_id": "up-d028",
+    "district_ids": [
+      "up-d028"
+    ],
+    "district_name_en": "Firozabad",
+    "aliases": [],
+    "slug": "tundla",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 96,
+    "name_en": "Jasrana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d028",
+    "district_ids": [
+      "up-d028"
+    ],
+    "district_name_en": "Firozabad",
+    "aliases": [],
+    "slug": "jasrana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 97,
+    "name_en": "Firozabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d028",
+    "district_ids": [
+      "up-d028"
+    ],
+    "district_name_en": "Firozabad",
+    "aliases": [],
+    "slug": "firozabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 98,
+    "name_en": "Shikohabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d028",
+    "district_ids": [
+      "up-d028"
+    ],
+    "district_name_en": "Firozabad",
+    "aliases": [],
+    "slug": "shikohabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 99,
+    "name_en": "Sirsaganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d028",
+    "district_ids": [
+      "up-d028"
+    ],
+    "district_name_en": "Firozabad",
+    "aliases": [],
+    "slug": "sirsaganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 100,
+    "name_en": "Kasganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d044",
+    "district_ids": [
+      "up-d044"
+    ],
+    "district_name_en": "Kasganj",
+    "aliases": [],
+    "slug": "kasganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 101,
+    "name_en": "Amanpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d044",
+    "district_ids": [
+      "up-d044"
+    ],
+    "district_name_en": "Kasganj",
+    "aliases": [],
+    "slug": "amanpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 102,
+    "name_en": "Patiyali",
+    "reservation": "GEN",
+    "primary_district_id": "up-d044",
+    "district_ids": [
+      "up-d044"
+    ],
+    "district_name_en": "Kasganj",
+    "aliases": [],
+    "slug": "patiyali",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 103,
+    "name_en": "Aliganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d024",
+    "district_ids": [
+      "up-d024"
+    ],
+    "district_name_en": "Etah",
+    "aliases": [],
+    "slug": "aliganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 104,
+    "name_en": "Etah",
+    "reservation": "GEN",
+    "primary_district_id": "up-d024",
+    "district_ids": [
+      "up-d024"
+    ],
+    "district_name_en": "Etah",
+    "aliases": [],
+    "slug": "etah",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 105,
+    "name_en": "Marhara",
+    "reservation": "GEN",
+    "primary_district_id": "up-d024",
+    "district_ids": [
+      "up-d024"
+    ],
+    "district_name_en": "Etah",
+    "aliases": [],
+    "slug": "marhara",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 106,
+    "name_en": "Jalesar",
+    "reservation": "SC",
+    "primary_district_id": "up-d024",
+    "district_ids": [
+      "up-d024"
+    ],
+    "district_name_en": "Etah",
+    "aliases": [],
+    "slug": "jalesar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 107,
+    "name_en": "Mainpuri",
+    "reservation": "GEN",
+    "primary_district_id": "up-d052",
+    "district_ids": [
+      "up-d052"
+    ],
+    "district_name_en": "Mainpuri",
+    "aliases": [],
+    "slug": "mainpuri",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 108,
+    "name_en": "Bhongaon",
+    "reservation": "GEN",
+    "primary_district_id": "up-d052",
+    "district_ids": [
+      "up-d052"
+    ],
+    "district_name_en": "Mainpuri",
+    "aliases": [],
+    "slug": "bhongaon",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 109,
+    "name_en": "Kishni",
+    "reservation": "SC",
+    "primary_district_id": "up-d052",
+    "district_ids": [
+      "up-d052"
+    ],
+    "district_name_en": "Mainpuri",
+    "aliases": [],
+    "slug": "kishni",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 110,
+    "name_en": "Karhal",
+    "reservation": "GEN",
+    "primary_district_id": "up-d052",
+    "district_ids": [
+      "up-d052"
+    ],
+    "district_name_en": "Mainpuri",
+    "aliases": [],
+    "slug": "karhal",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 111,
+    "name_en": "Gunnaur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d065",
+    "district_ids": [
+      "up-d065"
+    ],
+    "district_name_en": "Sambhal",
+    "aliases": [],
+    "slug": "gunnaur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 112,
+    "name_en": "Bisauli",
+    "reservation": "SC",
+    "primary_district_id": "up-d019",
+    "district_ids": [
+      "up-d019"
+    ],
+    "district_name_en": "Budaun",
+    "aliases": [],
+    "slug": "bisauli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 113,
+    "name_en": "Sahaswan",
+    "reservation": "GEN",
+    "primary_district_id": "up-d019",
+    "district_ids": [
+      "up-d019"
+    ],
+    "district_name_en": "Budaun",
+    "aliases": [],
+    "slug": "sahaswan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 114,
+    "name_en": "Bilsi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d019",
+    "district_ids": [
+      "up-d019"
+    ],
+    "district_name_en": "Budaun",
+    "aliases": [],
+    "slug": "bilsi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 115,
+    "name_en": "Badaun",
+    "reservation": "GEN",
+    "primary_district_id": "up-d019",
+    "district_ids": [
+      "up-d019"
+    ],
+    "district_name_en": "Budaun",
+    "aliases": [
+      "Budaun"
+    ],
+    "slug": "badaun",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 116,
+    "name_en": "Shekhupur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d019",
+    "district_ids": [
+      "up-d019"
+    ],
+    "district_name_en": "Budaun",
+    "aliases": [],
+    "slug": "shekhupur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 117,
+    "name_en": "Dataganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d019",
+    "district_ids": [
+      "up-d019"
+    ],
+    "district_name_en": "Budaun",
+    "aliases": [],
+    "slug": "dataganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 118,
+    "name_en": "Baheri",
+    "reservation": "GEN",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "baheri",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 119,
+    "name_en": "Meerganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "meerganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 120,
+    "name_en": "Bhojipura",
+    "reservation": "GEN",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "bhojipura",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 121,
+    "name_en": "Nawabganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "nawabganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 122,
+    "name_en": "Faridpur",
+    "reservation": "SC",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "faridpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 123,
+    "name_en": "Bithari Chainpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "bithari-chainpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 124,
+    "name_en": "Bareilly",
+    "reservation": "GEN",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "bareilly",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 125,
+    "name_en": "Bareilly Cantt.",
+    "reservation": "GEN",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "bareilly-cantt",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 126,
+    "name_en": "Aonla",
+    "reservation": "GEN",
+    "primary_district_id": "up-d015",
+    "district_ids": [
+      "up-d015"
+    ],
+    "district_name_en": "Bareilly",
+    "aliases": [],
+    "slug": "aonla",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 127,
+    "name_en": "Pilibhit",
+    "reservation": "GEN",
+    "primary_district_id": "up-d059",
+    "district_ids": [
+      "up-d059"
+    ],
+    "district_name_en": "Pilibhit",
+    "aliases": [],
+    "slug": "pilibhit",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 128,
+    "name_en": "Barkhera",
+    "reservation": "GEN",
+    "primary_district_id": "up-d059",
+    "district_ids": [
+      "up-d059"
+    ],
+    "district_name_en": "Pilibhit",
+    "aliases": [],
+    "slug": "barkhera",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 129,
+    "name_en": "Puranpur",
+    "reservation": "SC",
+    "primary_district_id": "up-d059",
+    "district_ids": [
+      "up-d059"
+    ],
+    "district_name_en": "Pilibhit",
+    "aliases": [],
+    "slug": "puranpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 130,
+    "name_en": "Bisalpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d059",
+    "district_ids": [
+      "up-d059"
+    ],
+    "district_name_en": "Pilibhit",
+    "aliases": [],
+    "slug": "bisalpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 131,
+    "name_en": "Katra",
+    "reservation": "GEN",
+    "primary_district_id": "up-d067",
+    "district_ids": [
+      "up-d067"
+    ],
+    "district_name_en": "Shahjahanpur",
+    "aliases": [],
+    "slug": "katra",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 132,
+    "name_en": "Jalalabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d067",
+    "district_ids": [
+      "up-d067"
+    ],
+    "district_name_en": "Shahjahanpur",
+    "aliases": [],
+    "slug": "jalalabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 133,
+    "name_en": "Tilhar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d067",
+    "district_ids": [
+      "up-d067"
+    ],
+    "district_name_en": "Shahjahanpur",
+    "aliases": [],
+    "slug": "tilhar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 134,
+    "name_en": "Powayan",
+    "reservation": "SC",
+    "primary_district_id": "up-d067",
+    "district_ids": [
+      "up-d067"
+    ],
+    "district_name_en": "Shahjahanpur",
+    "aliases": [],
+    "slug": "powayan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 135,
+    "name_en": "Shahjahanpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d067",
+    "district_ids": [
+      "up-d067"
+    ],
+    "district_name_en": "Shahjahanpur",
+    "aliases": [],
+    "slug": "shahjahanpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 136,
+    "name_en": "Dadraul",
+    "reservation": "GEN",
+    "primary_district_id": "up-d067",
+    "district_ids": [
+      "up-d067"
+    ],
+    "district_name_en": "Shahjahanpur",
+    "aliases": [],
+    "slug": "dadraul",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 137,
+    "name_en": "Palia",
+    "reservation": "GEN",
+    "primary_district_id": "up-d047",
+    "district_ids": [
+      "up-d047"
+    ],
+    "district_name_en": "Lakhimpur Kheri",
+    "aliases": [],
+    "slug": "palia",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 138,
+    "name_en": "Nighasan",
+    "reservation": "GEN",
+    "primary_district_id": "up-d047",
+    "district_ids": [
+      "up-d047"
+    ],
+    "district_name_en": "Lakhimpur Kheri",
+    "aliases": [],
+    "slug": "nighasan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 139,
+    "name_en": "Gola Gokrannath",
+    "reservation": "GEN",
+    "primary_district_id": "up-d047",
+    "district_ids": [
+      "up-d047"
+    ],
+    "district_name_en": "Lakhimpur Kheri",
+    "aliases": [
+      "Gola Gokarnnath"
+    ],
+    "slug": "gola-gokrannath",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 140,
+    "name_en": "Sri Nagar",
+    "reservation": "SC",
+    "primary_district_id": "up-d047",
+    "district_ids": [
+      "up-d047"
+    ],
+    "district_name_en": "Lakhimpur Kheri",
+    "aliases": [],
+    "slug": "sri-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 141,
+    "name_en": "Dhaurahra",
+    "reservation": "GEN",
+    "primary_district_id": "up-d047",
+    "district_ids": [
+      "up-d047"
+    ],
+    "district_name_en": "Lakhimpur Kheri",
+    "aliases": [],
+    "slug": "dhaurahra",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 142,
+    "name_en": "Lakhimpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d047",
+    "district_ids": [
+      "up-d047"
+    ],
+    "district_name_en": "Lakhimpur Kheri",
+    "aliases": [],
+    "slug": "lakhimpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 143,
+    "name_en": "Kasta",
+    "reservation": "SC",
+    "primary_district_id": "up-d047",
+    "district_ids": [
+      "up-d047"
+    ],
+    "district_name_en": "Lakhimpur Kheri",
+    "aliases": [],
+    "slug": "kasta",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 144,
+    "name_en": "Mohammdi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d047",
+    "district_ids": [
+      "up-d047"
+    ],
+    "district_name_en": "Lakhimpur Kheri",
+    "aliases": [],
+    "slug": "mohammdi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 145,
+    "name_en": "Maholi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "maholi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 146,
+    "name_en": "Sitapur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "sitapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 147,
+    "name_en": "Hargaon",
+    "reservation": "SC",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "hargaon",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 148,
+    "name_en": "Laharpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "laharpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 149,
+    "name_en": "Biswan",
+    "reservation": "GEN",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "biswan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 150,
+    "name_en": "Sevata",
+    "reservation": "GEN",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "sevata",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 151,
+    "name_en": "Mahmoodabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "mahmoodabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 152,
+    "name_en": "Sidhauli",
+    "reservation": "SC",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "sidhauli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 153,
+    "name_en": "Misrikh",
+    "reservation": "SC",
+    "primary_district_id": "up-d071",
+    "district_ids": [
+      "up-d071"
+    ],
+    "district_name_en": "Sitapur",
+    "aliases": [],
+    "slug": "misrikh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 154,
+    "name_en": "Sawayazpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d036",
+    "district_ids": [
+      "up-d036"
+    ],
+    "district_name_en": "Hardoi",
+    "aliases": [],
+    "slug": "sawayazpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 155,
+    "name_en": "Shahabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d036",
+    "district_ids": [
+      "up-d036"
+    ],
+    "district_name_en": "Hardoi",
+    "aliases": [],
+    "slug": "shahabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 156,
+    "name_en": "Hardoi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d036",
+    "district_ids": [
+      "up-d036"
+    ],
+    "district_name_en": "Hardoi",
+    "aliases": [],
+    "slug": "hardoi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 157,
+    "name_en": "Gopamau",
+    "reservation": "SC",
+    "primary_district_id": "up-d036",
+    "district_ids": [
+      "up-d036"
+    ],
+    "district_name_en": "Hardoi",
+    "aliases": [],
+    "slug": "gopamau",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 158,
+    "name_en": "Sandi",
+    "reservation": "SC",
+    "primary_district_id": "up-d036",
+    "district_ids": [
+      "up-d036"
+    ],
+    "district_name_en": "Hardoi",
+    "aliases": [],
+    "slug": "sandi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 159,
+    "name_en": "Bilgram-Mallanwan",
+    "reservation": "GEN",
+    "primary_district_id": "up-d036",
+    "district_ids": [
+      "up-d036"
+    ],
+    "district_name_en": "Hardoi",
+    "aliases": [],
+    "slug": "bilgram-mallanwan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 160,
+    "name_en": "Balamau",
+    "reservation": "SC",
+    "primary_district_id": "up-d036",
+    "district_ids": [
+      "up-d036"
+    ],
+    "district_name_en": "Hardoi",
+    "aliases": [],
+    "slug": "balamau",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 161,
+    "name_en": "Sandila",
+    "reservation": "GEN",
+    "primary_district_id": "up-d036",
+    "district_ids": [
+      "up-d036"
+    ],
+    "district_name_en": "Hardoi",
+    "aliases": [],
+    "slug": "sandila",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 162,
+    "name_en": "Bangarmau",
+    "reservation": "GEN",
+    "primary_district_id": "up-d074",
+    "district_ids": [
+      "up-d074"
+    ],
+    "district_name_en": "Unnao",
+    "aliases": [
+      "Bangermau"
+    ],
+    "slug": "bangarmau",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 163,
+    "name_en": "Safipur",
+    "reservation": "SC",
+    "primary_district_id": "up-d074",
+    "district_ids": [
+      "up-d074"
+    ],
+    "district_name_en": "Unnao",
+    "aliases": [],
+    "slug": "safipur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 164,
+    "name_en": "Mohan",
+    "reservation": "SC",
+    "primary_district_id": "up-d074",
+    "district_ids": [
+      "up-d074"
+    ],
+    "district_name_en": "Unnao",
+    "aliases": [],
+    "slug": "mohan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 165,
+    "name_en": "Unnao",
+    "reservation": "GEN",
+    "primary_district_id": "up-d074",
+    "district_ids": [
+      "up-d074"
+    ],
+    "district_name_en": "Unnao",
+    "aliases": [],
+    "slug": "unnao",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 166,
+    "name_en": "Bhagwantnagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d074",
+    "district_ids": [
+      "up-d074"
+    ],
+    "district_name_en": "Unnao",
+    "aliases": [
+      "Bhagwant Nagar"
+    ],
+    "slug": "bhagwantnagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 167,
+    "name_en": "Purwa",
+    "reservation": "GEN",
+    "primary_district_id": "up-d074",
+    "district_ids": [
+      "up-d074"
+    ],
+    "district_name_en": "Unnao",
+    "aliases": [],
+    "slug": "purwa",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 168,
+    "name_en": "Malihabad",
+    "reservation": "SC",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [],
+    "slug": "malihabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 169,
+    "name_en": "Bakshi Kaa Talab",
+    "reservation": "GEN",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [
+      "Bakshi Ka Talab"
+    ],
+    "slug": "bakshi-kaa-talab",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 170,
+    "name_en": "Sarojini Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [],
+    "slug": "sarojini-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 171,
+    "name_en": "Lucknow West",
+    "reservation": "GEN",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [],
+    "slug": "lucknow-west",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 172,
+    "name_en": "Lucknow North",
+    "reservation": "GEN",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [],
+    "slug": "lucknow-north",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 173,
+    "name_en": "Lucknow East",
+    "reservation": "GEN",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [],
+    "slug": "lucknow-east",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 174,
+    "name_en": "Lucknow Central",
+    "reservation": "GEN",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [],
+    "slug": "lucknow-central",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 175,
+    "name_en": "Lucknow Cantonment",
+    "reservation": "GEN",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [
+      "Lucknow Cantt."
+    ],
+    "slug": "lucknow-cantonment",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 176,
+    "name_en": "Mohanlalganj",
+    "reservation": "SC",
+    "primary_district_id": "up-d049",
+    "district_ids": [
+      "up-d049"
+    ],
+    "district_name_en": "Lucknow",
+    "aliases": [],
+    "slug": "mohanlalganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 177,
+    "name_en": "Bachhrawan",
+    "reservation": "SC",
+    "primary_district_id": "up-d062",
+    "district_ids": [
+      "up-d062"
+    ],
+    "district_name_en": "Raebareli",
+    "aliases": [],
+    "slug": "bachhrawan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 178,
+    "name_en": "Tiloi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d004",
+    "district_ids": [
+      "up-d004"
+    ],
+    "district_name_en": "Amethi",
+    "aliases": [],
+    "slug": "tiloi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 179,
+    "name_en": "Harchandpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d062",
+    "district_ids": [
+      "up-d062"
+    ],
+    "district_name_en": "Raebareli",
+    "aliases": [],
+    "slug": "harchandpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 180,
+    "name_en": "Rae Bareli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d062",
+    "district_ids": [
+      "up-d062"
+    ],
+    "district_name_en": "Raebareli",
+    "aliases": [],
+    "slug": "rae-bareli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 181,
+    "name_en": "Salon",
+    "reservation": "SC",
+    "primary_district_id": "up-d004",
+    "district_ids": [
+      "up-d004"
+    ],
+    "district_name_en": "Amethi",
+    "aliases": [],
+    "slug": "salon",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 182,
+    "name_en": "Sareni",
+    "reservation": "GEN",
+    "primary_district_id": "up-d062",
+    "district_ids": [
+      "up-d062"
+    ],
+    "district_name_en": "Raebareli",
+    "aliases": [],
+    "slug": "sareni",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 183,
+    "name_en": "Unchahar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d062",
+    "district_ids": [
+      "up-d062"
+    ],
+    "district_name_en": "Raebareli",
+    "aliases": [],
+    "slug": "unchahar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 184,
+    "name_en": "Jagdishpur",
+    "reservation": "SC",
+    "primary_district_id": "up-d004",
+    "district_ids": [
+      "up-d004",
+      "up-d073"
+    ],
+    "district_name_en": "Amethi",
+    "aliases": [
+      "Jagdishpur (partly Sultanpur district)"
+    ],
+    "slug": "jagdishpur",
+    "state_code": "UP",
+    "cross_district": true
+  },
+  {
+    "ac_number": 185,
+    "name_en": "Gauriganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d004",
+    "district_ids": [
+      "up-d004"
+    ],
+    "district_name_en": "Amethi",
+    "aliases": [],
+    "slug": "gauriganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 186,
+    "name_en": "Amethi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d004",
+    "district_ids": [
+      "up-d004"
+    ],
+    "district_name_en": "Amethi",
+    "aliases": [],
+    "slug": "amethi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 187,
+    "name_en": "Isauli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d073",
+    "district_ids": [
+      "up-d073"
+    ],
+    "district_name_en": "Sultanpur",
+    "aliases": [],
+    "slug": "isauli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 188,
+    "name_en": "Sultanpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d073",
+    "district_ids": [
+      "up-d073"
+    ],
+    "district_name_en": "Sultanpur",
+    "aliases": [],
+    "slug": "sultanpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 189,
+    "name_en": "Sadar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d073",
+    "district_ids": [
+      "up-d073"
+    ],
+    "district_name_en": "Sultanpur",
+    "aliases": [],
+    "slug": "sadar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 190,
+    "name_en": "Lambhua",
+    "reservation": "GEN",
+    "primary_district_id": "up-d073",
+    "district_ids": [
+      "up-d073"
+    ],
+    "district_name_en": "Sultanpur",
+    "aliases": [],
+    "slug": "lambhua",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 191,
+    "name_en": "Kadipur",
+    "reservation": "SC",
+    "primary_district_id": "up-d073",
+    "district_ids": [
+      "up-d073"
+    ],
+    "district_name_en": "Sultanpur",
+    "aliases": [],
+    "slug": "kadipur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 192,
+    "name_en": "Kaimganj",
+    "reservation": "SC",
+    "primary_district_id": "up-d026",
+    "district_ids": [
+      "up-d026"
+    ],
+    "district_name_en": "Farrukhabad",
+    "aliases": [],
+    "slug": "kaimganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 193,
+    "name_en": "Amritpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d026",
+    "district_ids": [
+      "up-d026"
+    ],
+    "district_name_en": "Farrukhabad",
+    "aliases": [],
+    "slug": "amritpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 194,
+    "name_en": "Farrukhabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d026",
+    "district_ids": [
+      "up-d026"
+    ],
+    "district_name_en": "Farrukhabad",
+    "aliases": [],
+    "slug": "farrukhabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 195,
+    "name_en": "Bhojpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d026",
+    "district_ids": [
+      "up-d026"
+    ],
+    "district_name_en": "Farrukhabad",
+    "aliases": [],
+    "slug": "bhojpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 196,
+    "name_en": "Chhibramau",
+    "reservation": "GEN",
+    "primary_district_id": "up-d041",
+    "district_ids": [
+      "up-d041"
+    ],
+    "district_name_en": "Kannauj",
+    "aliases": [],
+    "slug": "chhibramau",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 197,
+    "name_en": "Tirwa",
+    "reservation": "GEN",
+    "primary_district_id": "up-d041",
+    "district_ids": [
+      "up-d041"
+    ],
+    "district_name_en": "Kannauj",
+    "aliases": [],
+    "slug": "tirwa",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 198,
+    "name_en": "Kannauj",
+    "reservation": "SC",
+    "primary_district_id": "up-d041",
+    "district_ids": [
+      "up-d041"
+    ],
+    "district_name_en": "Kannauj",
+    "aliases": [],
+    "slug": "kannauj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 199,
+    "name_en": "Jaswantnagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d025",
+    "district_ids": [
+      "up-d025"
+    ],
+    "district_name_en": "Etawah",
+    "aliases": [],
+    "slug": "jaswantnagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 200,
+    "name_en": "Etawah",
+    "reservation": "GEN",
+    "primary_district_id": "up-d025",
+    "district_ids": [
+      "up-d025"
+    ],
+    "district_name_en": "Etawah",
+    "aliases": [],
+    "slug": "etawah",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 201,
+    "name_en": "Bharthana",
+    "reservation": "SC",
+    "primary_district_id": "up-d025",
+    "district_ids": [
+      "up-d025"
+    ],
+    "district_name_en": "Etawah",
+    "aliases": [],
+    "slug": "bharthana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 202,
+    "name_en": "Bidhuna",
+    "reservation": "GEN",
+    "primary_district_id": "up-d006",
+    "district_ids": [
+      "up-d006"
+    ],
+    "district_name_en": "Auraiya",
+    "aliases": [],
+    "slug": "bidhuna",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 203,
+    "name_en": "Dibiyapur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d006",
+    "district_ids": [
+      "up-d006"
+    ],
+    "district_name_en": "Auraiya",
+    "aliases": [],
+    "slug": "dibiyapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 204,
+    "name_en": "Auraiya",
+    "reservation": "SC",
+    "primary_district_id": "up-d006",
+    "district_ids": [
+      "up-d006"
+    ],
+    "district_name_en": "Auraiya",
+    "aliases": [],
+    "slug": "auraiya",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 205,
+    "name_en": "Rasulabad",
+    "reservation": "SC",
+    "primary_district_id": "up-d042",
+    "district_ids": [
+      "up-d042"
+    ],
+    "district_name_en": "Kanpur Dehat",
+    "aliases": [],
+    "slug": "rasulabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 206,
+    "name_en": "Akbarpur-Raniya",
+    "reservation": "GEN",
+    "primary_district_id": "up-d042",
+    "district_ids": [
+      "up-d042"
+    ],
+    "district_name_en": "Kanpur Dehat",
+    "aliases": [
+      "Akbarpur Raniya",
+      "Akbarpur - Raniya"
+    ],
+    "slug": "akbarpur-raniya",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 207,
+    "name_en": "Sikandra",
+    "reservation": "GEN",
+    "primary_district_id": "up-d042",
+    "district_ids": [
+      "up-d042"
+    ],
+    "district_name_en": "Kanpur Dehat",
+    "aliases": [],
+    "slug": "sikandra",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 208,
+    "name_en": "Bhognipur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d042",
+    "district_ids": [
+      "up-d042"
+    ],
+    "district_name_en": "Kanpur Dehat",
+    "aliases": [],
+    "slug": "bhognipur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 209,
+    "name_en": "Bilhaur",
+    "reservation": "SC",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [],
+    "slug": "bilhaur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 210,
+    "name_en": "Bithoor",
+    "reservation": "GEN",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [],
+    "slug": "bithoor",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 211,
+    "name_en": "Kalyanpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [],
+    "slug": "kalyanpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 212,
+    "name_en": "Govind Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [
+      "Govindnagar"
+    ],
+    "slug": "govind-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 213,
+    "name_en": "Sishamau",
+    "reservation": "GEN",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [],
+    "slug": "sishamau",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 214,
+    "name_en": "Arya Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [],
+    "slug": "arya-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 215,
+    "name_en": "Kidwai Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [],
+    "slug": "kidwai-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 216,
+    "name_en": "Kanpur Cantonment",
+    "reservation": "GEN",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [
+      "Kanpur Cantt."
+    ],
+    "slug": "kanpur-cantonment",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 217,
+    "name_en": "Maharajpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [],
+    "slug": "maharajpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 218,
+    "name_en": "Ghatampur",
+    "reservation": "SC",
+    "primary_district_id": "up-d043",
+    "district_ids": [
+      "up-d043"
+    ],
+    "district_name_en": "Kanpur Nagar",
+    "aliases": [],
+    "slug": "ghatampur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 219,
+    "name_en": "Madhogarh",
+    "reservation": "GEN",
+    "primary_district_id": "up-d038",
+    "district_ids": [
+      "up-d038"
+    ],
+    "district_name_en": "Jalaun",
+    "aliases": [
+      "Madhaugarh"
+    ],
+    "slug": "madhogarh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 220,
+    "name_en": "Kalpi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d038",
+    "district_ids": [
+      "up-d038"
+    ],
+    "district_name_en": "Jalaun",
+    "aliases": [],
+    "slug": "kalpi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 221,
+    "name_en": "Orai",
+    "reservation": "SC",
+    "primary_district_id": "up-d038",
+    "district_ids": [
+      "up-d038"
+    ],
+    "district_name_en": "Jalaun",
+    "aliases": [],
+    "slug": "orai",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 222,
+    "name_en": "Babina",
+    "reservation": "GEN",
+    "primary_district_id": "up-d040",
+    "district_ids": [
+      "up-d040"
+    ],
+    "district_name_en": "Jhansi",
+    "aliases": [],
+    "slug": "babina",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 223,
+    "name_en": "Jhansi Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d040",
+    "district_ids": [
+      "up-d040"
+    ],
+    "district_name_en": "Jhansi",
+    "aliases": [],
+    "slug": "jhansi-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 224,
+    "name_en": "Mauranipur",
+    "reservation": "SC",
+    "primary_district_id": "up-d040",
+    "district_ids": [
+      "up-d040"
+    ],
+    "district_name_en": "Jhansi",
+    "aliases": [],
+    "slug": "mauranipur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 225,
+    "name_en": "Garautha",
+    "reservation": "GEN",
+    "primary_district_id": "up-d040",
+    "district_ids": [
+      "up-d040"
+    ],
+    "district_name_en": "Jhansi",
+    "aliases": [],
+    "slug": "garautha",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 226,
+    "name_en": "Lalitpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d048",
+    "district_ids": [
+      "up-d048"
+    ],
+    "district_name_en": "Lalitpur",
+    "aliases": [],
+    "slug": "lalitpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 227,
+    "name_en": "Mehroni",
+    "reservation": "SC",
+    "primary_district_id": "up-d048",
+    "district_ids": [
+      "up-d048"
+    ],
+    "district_name_en": "Lalitpur",
+    "aliases": [],
+    "slug": "mehroni",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 228,
+    "name_en": "Hamirpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d034",
+    "district_ids": [
+      "up-d034"
+    ],
+    "district_name_en": "Hamirpur",
+    "aliases": [],
+    "slug": "hamirpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 229,
+    "name_en": "Rath",
+    "reservation": "SC",
+    "primary_district_id": "up-d034",
+    "district_ids": [
+      "up-d034"
+    ],
+    "district_name_en": "Hamirpur",
+    "aliases": [],
+    "slug": "rath",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 230,
+    "name_en": "Mahoba",
+    "reservation": "GEN",
+    "primary_district_id": "up-d051",
+    "district_ids": [
+      "up-d051"
+    ],
+    "district_name_en": "Mahoba",
+    "aliases": [],
+    "slug": "mahoba",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 231,
+    "name_en": "Charkhari",
+    "reservation": "GEN",
+    "primary_district_id": "up-d051",
+    "district_ids": [
+      "up-d051"
+    ],
+    "district_name_en": "Mahoba",
+    "aliases": [],
+    "slug": "charkhari",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 232,
+    "name_en": "Tindwari",
+    "reservation": "GEN",
+    "primary_district_id": "up-d013",
+    "district_ids": [
+      "up-d013"
+    ],
+    "district_name_en": "Banda",
+    "aliases": [],
+    "slug": "tindwari",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 233,
+    "name_en": "Baberu",
+    "reservation": "GEN",
+    "primary_district_id": "up-d013",
+    "district_ids": [
+      "up-d013"
+    ],
+    "district_name_en": "Banda",
+    "aliases": [],
+    "slug": "baberu",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 234,
+    "name_en": "Naraini",
+    "reservation": "SC",
+    "primary_district_id": "up-d013",
+    "district_ids": [
+      "up-d013"
+    ],
+    "district_name_en": "Banda",
+    "aliases": [],
+    "slug": "naraini",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 235,
+    "name_en": "Banda",
+    "reservation": "GEN",
+    "primary_district_id": "up-d013",
+    "district_ids": [
+      "up-d013"
+    ],
+    "district_name_en": "Banda",
+    "aliases": [],
+    "slug": "banda",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 236,
+    "name_en": "Chitrakoot",
+    "reservation": "GEN",
+    "primary_district_id": "up-d022",
+    "district_ids": [
+      "up-d022"
+    ],
+    "district_name_en": "Chitrakoot",
+    "aliases": [],
+    "slug": "chitrakoot",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 237,
+    "name_en": "Manikpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d022",
+    "district_ids": [
+      "up-d022"
+    ],
+    "district_name_en": "Chitrakoot",
+    "aliases": [],
+    "slug": "manikpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 238,
+    "name_en": "Jahanabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d027",
+    "district_ids": [
+      "up-d027"
+    ],
+    "district_name_en": "Fatehpur",
+    "aliases": [],
+    "slug": "jahanabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 239,
+    "name_en": "Bindki",
+    "reservation": "GEN",
+    "primary_district_id": "up-d027",
+    "district_ids": [
+      "up-d027"
+    ],
+    "district_name_en": "Fatehpur",
+    "aliases": [],
+    "slug": "bindki",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 240,
+    "name_en": "Fatehpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d027",
+    "district_ids": [
+      "up-d027"
+    ],
+    "district_name_en": "Fatehpur",
+    "aliases": [],
+    "slug": "fatehpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 241,
+    "name_en": "Ayah Shah",
+    "reservation": "GEN",
+    "primary_district_id": "up-d027",
+    "district_ids": [
+      "up-d027"
+    ],
+    "district_name_en": "Fatehpur",
+    "aliases": [],
+    "slug": "ayah-shah",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 242,
+    "name_en": "Husainganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d027",
+    "district_ids": [
+      "up-d027"
+    ],
+    "district_name_en": "Fatehpur",
+    "aliases": [],
+    "slug": "husainganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 243,
+    "name_en": "Khaga",
+    "reservation": "SC",
+    "primary_district_id": "up-d027",
+    "district_ids": [
+      "up-d027"
+    ],
+    "district_name_en": "Fatehpur",
+    "aliases": [],
+    "slug": "khaga",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 244,
+    "name_en": "Rampur Khas",
+    "reservation": "GEN",
+    "primary_district_id": "up-d060",
+    "district_ids": [
+      "up-d060"
+    ],
+    "district_name_en": "Pratapgarh",
+    "aliases": [],
+    "slug": "rampur-khas",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 245,
+    "name_en": "Babaganj",
+    "reservation": "SC",
+    "primary_district_id": "up-d060",
+    "district_ids": [
+      "up-d060"
+    ],
+    "district_name_en": "Pratapgarh",
+    "aliases": [],
+    "slug": "babaganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 246,
+    "name_en": "Kunda",
+    "reservation": "GEN",
+    "primary_district_id": "up-d060",
+    "district_ids": [
+      "up-d060"
+    ],
+    "district_name_en": "Pratapgarh",
+    "aliases": [],
+    "slug": "kunda",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 247,
+    "name_en": "Vishwanathganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d060",
+    "district_ids": [
+      "up-d060"
+    ],
+    "district_name_en": "Pratapgarh",
+    "aliases": [],
+    "slug": "vishwanathganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 248,
+    "name_en": "Pratapgarh",
+    "reservation": "GEN",
+    "primary_district_id": "up-d060",
+    "district_ids": [
+      "up-d060"
+    ],
+    "district_name_en": "Pratapgarh",
+    "aliases": [],
+    "slug": "pratapgarh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 249,
+    "name_en": "Patti",
+    "reservation": "GEN",
+    "primary_district_id": "up-d060",
+    "district_ids": [
+      "up-d060"
+    ],
+    "district_name_en": "Pratapgarh",
+    "aliases": [],
+    "slug": "patti",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 250,
+    "name_en": "Raniganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d060",
+    "district_ids": [
+      "up-d060"
+    ],
+    "district_name_en": "Pratapgarh",
+    "aliases": [],
+    "slug": "raniganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 251,
+    "name_en": "Sirathu",
+    "reservation": "GEN",
+    "primary_district_id": "up-d045",
+    "district_ids": [
+      "up-d045"
+    ],
+    "district_name_en": "Kaushambi",
+    "aliases": [],
+    "slug": "sirathu",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 252,
+    "name_en": "Manjhanpur",
+    "reservation": "SC",
+    "primary_district_id": "up-d045",
+    "district_ids": [
+      "up-d045"
+    ],
+    "district_name_en": "Kaushambi",
+    "aliases": [],
+    "slug": "manjhanpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 253,
+    "name_en": "Chail",
+    "reservation": "GEN",
+    "primary_district_id": "up-d045",
+    "district_ids": [
+      "up-d045"
+    ],
+    "district_name_en": "Kaushambi",
+    "aliases": [],
+    "slug": "chail",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 254,
+    "name_en": "Phaphamau",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "phaphamau",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 255,
+    "name_en": "Soraon",
+    "reservation": "SC",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "soraon",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 256,
+    "name_en": "Phulpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "phulpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 257,
+    "name_en": "Pratappur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "pratappur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 258,
+    "name_en": "Handia",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "handia",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 259,
+    "name_en": "Meja",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "meja",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 260,
+    "name_en": "Karachhana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "karachhana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 261,
+    "name_en": "Allahabad West",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [
+      "Prayagraj West"
+    ],
+    "slug": "allahabad-west",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 262,
+    "name_en": "Allahabad North",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [
+      "Prayagraj North"
+    ],
+    "slug": "allahabad-north",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 263,
+    "name_en": "Allahabad South",
+    "reservation": "GEN",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [
+      "Prayagraj South"
+    ],
+    "slug": "allahabad-south",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 264,
+    "name_en": "Bara",
+    "reservation": "SC",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "bara",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 265,
+    "name_en": "Koraon",
+    "reservation": "SC",
+    "primary_district_id": "up-d061",
+    "district_ids": [
+      "up-d061"
+    ],
+    "district_name_en": "Prayagraj",
+    "aliases": [],
+    "slug": "koraon",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 266,
+    "name_en": "Kursi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d014",
+    "district_ids": [
+      "up-d014"
+    ],
+    "district_name_en": "Barabanki",
+    "aliases": [],
+    "slug": "kursi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 267,
+    "name_en": "Ram Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d014",
+    "district_ids": [
+      "up-d014"
+    ],
+    "district_name_en": "Barabanki",
+    "aliases": [],
+    "slug": "ram-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 268,
+    "name_en": "Barabanki",
+    "reservation": "GEN",
+    "primary_district_id": "up-d014",
+    "district_ids": [
+      "up-d014"
+    ],
+    "district_name_en": "Barabanki",
+    "aliases": [],
+    "slug": "barabanki",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 269,
+    "name_en": "Zaidpur",
+    "reservation": "SC",
+    "primary_district_id": "up-d014",
+    "district_ids": [
+      "up-d014"
+    ],
+    "district_name_en": "Barabanki",
+    "aliases": [],
+    "slug": "zaidpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 270,
+    "name_en": "Dariyabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d014",
+    "district_ids": [
+      "up-d014"
+    ],
+    "district_name_en": "Barabanki",
+    "aliases": [],
+    "slug": "dariyabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 271,
+    "name_en": "Rudauli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d007",
+    "district_ids": [
+      "up-d007",
+      "up-d014"
+    ],
+    "district_name_en": "Ayodhya",
+    "aliases": [
+      "Rudauli (partly Barabanki district)"
+    ],
+    "slug": "rudauli",
+    "state_code": "UP",
+    "cross_district": true
+  },
+  {
+    "ac_number": 272,
+    "name_en": "Haidergarh",
+    "reservation": "SC",
+    "primary_district_id": "up-d014",
+    "district_ids": [
+      "up-d014"
+    ],
+    "district_name_en": "Barabanki",
+    "aliases": [],
+    "slug": "haidergarh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 273,
+    "name_en": "Milkipur",
+    "reservation": "SC",
+    "primary_district_id": "up-d007",
+    "district_ids": [
+      "up-d007"
+    ],
+    "district_name_en": "Ayodhya",
+    "aliases": [],
+    "slug": "milkipur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 274,
+    "name_en": "Bikapur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d007",
+    "district_ids": [
+      "up-d007"
+    ],
+    "district_name_en": "Ayodhya",
+    "aliases": [],
+    "slug": "bikapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 275,
+    "name_en": "Ayodhya",
+    "reservation": "GEN",
+    "primary_district_id": "up-d007",
+    "district_ids": [
+      "up-d007"
+    ],
+    "district_name_en": "Ayodhya",
+    "aliases": [],
+    "slug": "ayodhya",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 276,
+    "name_en": "Goshainganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d007",
+    "district_ids": [
+      "up-d007"
+    ],
+    "district_name_en": "Ayodhya",
+    "aliases": [],
+    "slug": "goshainganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 277,
+    "name_en": "Katehari",
+    "reservation": "GEN",
+    "primary_district_id": "up-d003",
+    "district_ids": [
+      "up-d003"
+    ],
+    "district_name_en": "Ambedkar Nagar",
+    "aliases": [],
+    "slug": "katehari",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 278,
+    "name_en": "Tanda",
+    "reservation": "GEN",
+    "primary_district_id": "up-d003",
+    "district_ids": [
+      "up-d003"
+    ],
+    "district_name_en": "Ambedkar Nagar",
+    "aliases": [],
+    "slug": "tanda",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 279,
+    "name_en": "Alapur",
+    "reservation": "SC",
+    "primary_district_id": "up-d003",
+    "district_ids": [
+      "up-d003"
+    ],
+    "district_name_en": "Ambedkar Nagar",
+    "aliases": [],
+    "slug": "alapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 280,
+    "name_en": "Jalalpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d003",
+    "district_ids": [
+      "up-d003"
+    ],
+    "district_name_en": "Ambedkar Nagar",
+    "aliases": [],
+    "slug": "jalalpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 281,
+    "name_en": "Akbarpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d003",
+    "district_ids": [
+      "up-d003"
+    ],
+    "district_name_en": "Ambedkar Nagar",
+    "aliases": [],
+    "slug": "akbarpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 282,
+    "name_en": "Balha",
+    "reservation": "SC",
+    "primary_district_id": "up-d010",
+    "district_ids": [
+      "up-d010"
+    ],
+    "district_name_en": "Bahraich",
+    "aliases": [],
+    "slug": "balha",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 283,
+    "name_en": "Nanpara",
+    "reservation": "GEN",
+    "primary_district_id": "up-d010",
+    "district_ids": [
+      "up-d010"
+    ],
+    "district_name_en": "Bahraich",
+    "aliases": [],
+    "slug": "nanpara",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 284,
+    "name_en": "Matera",
+    "reservation": "GEN",
+    "primary_district_id": "up-d010",
+    "district_ids": [
+      "up-d010"
+    ],
+    "district_name_en": "Bahraich",
+    "aliases": [],
+    "slug": "matera",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 285,
+    "name_en": "Mahasi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d010",
+    "district_ids": [
+      "up-d010"
+    ],
+    "district_name_en": "Bahraich",
+    "aliases": [],
+    "slug": "mahasi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 286,
+    "name_en": "Bahraich",
+    "reservation": "GEN",
+    "primary_district_id": "up-d010",
+    "district_ids": [
+      "up-d010"
+    ],
+    "district_name_en": "Bahraich",
+    "aliases": [],
+    "slug": "bahraich",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 287,
+    "name_en": "Payagpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d010",
+    "district_ids": [
+      "up-d010"
+    ],
+    "district_name_en": "Bahraich",
+    "aliases": [],
+    "slug": "payagpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 288,
+    "name_en": "Kaiserganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d010",
+    "district_ids": [
+      "up-d010"
+    ],
+    "district_name_en": "Bahraich",
+    "aliases": [],
+    "slug": "kaiserganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 289,
+    "name_en": "Bhinga",
+    "reservation": "GEN",
+    "primary_district_id": "up-d069",
+    "district_ids": [
+      "up-d069"
+    ],
+    "district_name_en": "Shrawasti",
+    "aliases": [],
+    "slug": "bhinga",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 290,
+    "name_en": "Shrawasti",
+    "reservation": "GEN",
+    "primary_district_id": "up-d069",
+    "district_ids": [
+      "up-d069"
+    ],
+    "district_name_en": "Shrawasti",
+    "aliases": [],
+    "slug": "shrawasti",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 291,
+    "name_en": "Tulsipur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d012",
+    "district_ids": [
+      "up-d012"
+    ],
+    "district_name_en": "Balrampur",
+    "aliases": [],
+    "slug": "tulsipur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 292,
+    "name_en": "Gainsari",
+    "reservation": "GEN",
+    "primary_district_id": "up-d012",
+    "district_ids": [
+      "up-d012"
+    ],
+    "district_name_en": "Balrampur",
+    "aliases": [],
+    "slug": "gainsari",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 293,
+    "name_en": "Utraula",
+    "reservation": "GEN",
+    "primary_district_id": "up-d012",
+    "district_ids": [
+      "up-d012"
+    ],
+    "district_name_en": "Balrampur",
+    "aliases": [],
+    "slug": "utraula",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 294,
+    "name_en": "Balrampur",
+    "reservation": "SC",
+    "primary_district_id": "up-d012",
+    "district_ids": [
+      "up-d012"
+    ],
+    "district_name_en": "Balrampur",
+    "aliases": [],
+    "slug": "balrampur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 295,
+    "name_en": "Mehnaun",
+    "reservation": "GEN",
+    "primary_district_id": "up-d032",
+    "district_ids": [
+      "up-d032"
+    ],
+    "district_name_en": "Gonda",
+    "aliases": [],
+    "slug": "mehnaun",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 296,
+    "name_en": "Gonda",
+    "reservation": "GEN",
+    "primary_district_id": "up-d032",
+    "district_ids": [
+      "up-d032"
+    ],
+    "district_name_en": "Gonda",
+    "aliases": [],
+    "slug": "gonda",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 297,
+    "name_en": "Katra Bazar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d032",
+    "district_ids": [
+      "up-d032"
+    ],
+    "district_name_en": "Gonda",
+    "aliases": [],
+    "slug": "katra-bazar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 298,
+    "name_en": "Colonelganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d032",
+    "district_ids": [
+      "up-d032"
+    ],
+    "district_name_en": "Gonda",
+    "aliases": [],
+    "slug": "colonelganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 299,
+    "name_en": "Tarabganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d032",
+    "district_ids": [
+      "up-d032"
+    ],
+    "district_name_en": "Gonda",
+    "aliases": [],
+    "slug": "tarabganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 300,
+    "name_en": "Mankapur",
+    "reservation": "SC",
+    "primary_district_id": "up-d032",
+    "district_ids": [
+      "up-d032"
+    ],
+    "district_name_en": "Gonda",
+    "aliases": [],
+    "slug": "mankapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 301,
+    "name_en": "Gaura",
+    "reservation": "GEN",
+    "primary_district_id": "up-d032",
+    "district_ids": [
+      "up-d032"
+    ],
+    "district_name_en": "Gonda",
+    "aliases": [],
+    "slug": "gaura",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 302,
+    "name_en": "Shohratgarh",
+    "reservation": "GEN",
+    "primary_district_id": "up-d070",
+    "district_ids": [
+      "up-d070"
+    ],
+    "district_name_en": "Siddharthnagar",
+    "aliases": [],
+    "slug": "shohratgarh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 303,
+    "name_en": "Kapilvastu",
+    "reservation": "SC",
+    "primary_district_id": "up-d070",
+    "district_ids": [
+      "up-d070"
+    ],
+    "district_name_en": "Siddharthnagar",
+    "aliases": [],
+    "slug": "kapilvastu",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 304,
+    "name_en": "Bansi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d070",
+    "district_ids": [
+      "up-d070"
+    ],
+    "district_name_en": "Siddharthnagar",
+    "aliases": [],
+    "slug": "bansi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 305,
+    "name_en": "Itwa",
+    "reservation": "GEN",
+    "primary_district_id": "up-d070",
+    "district_ids": [
+      "up-d070"
+    ],
+    "district_name_en": "Siddharthnagar",
+    "aliases": [],
+    "slug": "itwa",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 306,
+    "name_en": "Domariyaganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d070",
+    "district_ids": [
+      "up-d070"
+    ],
+    "district_name_en": "Siddharthnagar",
+    "aliases": [],
+    "slug": "domariyaganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 307,
+    "name_en": "Harraiya",
+    "reservation": "GEN",
+    "primary_district_id": "up-d016",
+    "district_ids": [
+      "up-d016"
+    ],
+    "district_name_en": "Basti",
+    "aliases": [],
+    "slug": "harraiya",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 308,
+    "name_en": "Kaptanganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d016",
+    "district_ids": [
+      "up-d016"
+    ],
+    "district_name_en": "Basti",
+    "aliases": [],
+    "slug": "kaptanganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 309,
+    "name_en": "Rudhauli",
+    "reservation": "GEN",
+    "primary_district_id": "up-d016",
+    "district_ids": [
+      "up-d016"
+    ],
+    "district_name_en": "Basti",
+    "aliases": [],
+    "slug": "rudhauli",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 310,
+    "name_en": "Basti Sadar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d016",
+    "district_ids": [
+      "up-d016"
+    ],
+    "district_name_en": "Basti",
+    "aliases": [],
+    "slug": "basti-sadar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 311,
+    "name_en": "Mahadewa",
+    "reservation": "SC",
+    "primary_district_id": "up-d016",
+    "district_ids": [
+      "up-d016"
+    ],
+    "district_name_en": "Basti",
+    "aliases": [],
+    "slug": "mahadewa",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 312,
+    "name_en": "Menhdawal",
+    "reservation": "GEN",
+    "primary_district_id": "up-d066",
+    "district_ids": [
+      "up-d066"
+    ],
+    "district_name_en": "Sant Kabir Nagar",
+    "aliases": [],
+    "slug": "menhdawal",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 313,
+    "name_en": "Khalilabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d066",
+    "district_ids": [
+      "up-d066"
+    ],
+    "district_name_en": "Sant Kabir Nagar",
+    "aliases": [],
+    "slug": "khalilabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 314,
+    "name_en": "Dhanghata",
+    "reservation": "SC",
+    "primary_district_id": "up-d066",
+    "district_ids": [
+      "up-d066"
+    ],
+    "district_name_en": "Sant Kabir Nagar",
+    "aliases": [],
+    "slug": "dhanghata",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 315,
+    "name_en": "Pharenda",
+    "reservation": "GEN",
+    "primary_district_id": "up-d050",
+    "district_ids": [
+      "up-d050"
+    ],
+    "district_name_en": "Maharajganj",
+    "aliases": [],
+    "slug": "pharenda",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 316,
+    "name_en": "Nautanwa",
+    "reservation": "GEN",
+    "primary_district_id": "up-d050",
+    "district_ids": [
+      "up-d050"
+    ],
+    "district_name_en": "Maharajganj",
+    "aliases": [],
+    "slug": "nautanwa",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 317,
+    "name_en": "Siswa",
+    "reservation": "GEN",
+    "primary_district_id": "up-d050",
+    "district_ids": [
+      "up-d050"
+    ],
+    "district_name_en": "Maharajganj",
+    "aliases": [],
+    "slug": "siswa",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 318,
+    "name_en": "Maharajganj",
+    "reservation": "SC",
+    "primary_district_id": "up-d050",
+    "district_ids": [
+      "up-d050"
+    ],
+    "district_name_en": "Maharajganj",
+    "aliases": [],
+    "slug": "maharajganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 319,
+    "name_en": "Paniyara",
+    "reservation": "GEN",
+    "primary_district_id": "up-d050",
+    "district_ids": [
+      "up-d050"
+    ],
+    "district_name_en": "Maharajganj",
+    "aliases": [
+      "Paniyra"
+    ],
+    "slug": "paniyara",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 320,
+    "name_en": "Caimpiyarganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [
+      "Campierganj"
+    ],
+    "slug": "caimpiyarganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 321,
+    "name_en": "Pipraich",
+    "reservation": "GEN",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [],
+    "slug": "pipraich",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 322,
+    "name_en": "Gorakhpur Urban",
+    "reservation": "GEN",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [],
+    "slug": "gorakhpur-urban",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 323,
+    "name_en": "Gorakhpur Rural",
+    "reservation": "GEN",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [],
+    "slug": "gorakhpur-rural",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 324,
+    "name_en": "Sahajanwa",
+    "reservation": "GEN",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [],
+    "slug": "sahajanwa",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 325,
+    "name_en": "Khajani",
+    "reservation": "SC",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [],
+    "slug": "khajani",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 326,
+    "name_en": "Chauri-Chaura",
+    "reservation": "GEN",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [],
+    "slug": "chauri-chaura",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 327,
+    "name_en": "Bansgaon",
+    "reservation": "SC",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [],
+    "slug": "bansgaon",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 328,
+    "name_en": "Chillupar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d033",
+    "district_ids": [
+      "up-d033"
+    ],
+    "district_name_en": "Gorakhpur",
+    "aliases": [
+      "Chillupar"
+    ],
+    "slug": "chillupar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 329,
+    "name_en": "Khadda",
+    "reservation": "GEN",
+    "primary_district_id": "up-d046",
+    "district_ids": [
+      "up-d046"
+    ],
+    "district_name_en": "Kushinagar",
+    "aliases": [],
+    "slug": "khadda",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 330,
+    "name_en": "Padrauna",
+    "reservation": "GEN",
+    "primary_district_id": "up-d046",
+    "district_ids": [
+      "up-d046"
+    ],
+    "district_name_en": "Kushinagar",
+    "aliases": [],
+    "slug": "padrauna",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 331,
+    "name_en": "Tamkuhi Raj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d046",
+    "district_ids": [
+      "up-d046"
+    ],
+    "district_name_en": "Kushinagar",
+    "aliases": [],
+    "slug": "tamkuhi-raj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 332,
+    "name_en": "Fazilnagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d046",
+    "district_ids": [
+      "up-d046"
+    ],
+    "district_name_en": "Kushinagar",
+    "aliases": [],
+    "slug": "fazilnagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 333,
+    "name_en": "Kushinagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d046",
+    "district_ids": [
+      "up-d046"
+    ],
+    "district_name_en": "Kushinagar",
+    "aliases": [],
+    "slug": "kushinagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 334,
+    "name_en": "Hata",
+    "reservation": "GEN",
+    "primary_district_id": "up-d046",
+    "district_ids": [
+      "up-d046"
+    ],
+    "district_name_en": "Kushinagar",
+    "aliases": [],
+    "slug": "hata",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 335,
+    "name_en": "Ramkola",
+    "reservation": "SC",
+    "primary_district_id": "up-d046",
+    "district_ids": [
+      "up-d046"
+    ],
+    "district_name_en": "Kushinagar",
+    "aliases": [],
+    "slug": "ramkola",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 336,
+    "name_en": "Rudrapur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d023",
+    "district_ids": [
+      "up-d023"
+    ],
+    "district_name_en": "Deoria",
+    "aliases": [],
+    "slug": "rudrapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 337,
+    "name_en": "Deoria",
+    "reservation": "GEN",
+    "primary_district_id": "up-d023",
+    "district_ids": [
+      "up-d023"
+    ],
+    "district_name_en": "Deoria",
+    "aliases": [],
+    "slug": "deoria",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 338,
+    "name_en": "Pathardeva",
+    "reservation": "GEN",
+    "primary_district_id": "up-d023",
+    "district_ids": [
+      "up-d023"
+    ],
+    "district_name_en": "Deoria",
+    "aliases": [],
+    "slug": "pathardeva",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 339,
+    "name_en": "Rampur Karkhana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d023",
+    "district_ids": [
+      "up-d023"
+    ],
+    "district_name_en": "Deoria",
+    "aliases": [],
+    "slug": "rampur-karkhana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 340,
+    "name_en": "Bhatpar Rani",
+    "reservation": "GEN",
+    "primary_district_id": "up-d023",
+    "district_ids": [
+      "up-d023"
+    ],
+    "district_name_en": "Deoria",
+    "aliases": [],
+    "slug": "bhatpar-rani",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 341,
+    "name_en": "Salempur",
+    "reservation": "SC",
+    "primary_district_id": "up-d023",
+    "district_ids": [
+      "up-d023"
+    ],
+    "district_name_en": "Deoria",
+    "aliases": [],
+    "slug": "salempur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 342,
+    "name_en": "Barhaj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d023",
+    "district_ids": [
+      "up-d023"
+    ],
+    "district_name_en": "Deoria",
+    "aliases": [],
+    "slug": "barhaj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 343,
+    "name_en": "Atrauliya",
+    "reservation": "GEN",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "atrauliya",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 344,
+    "name_en": "Gopalpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "gopalpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 345,
+    "name_en": "Sagri",
+    "reservation": "GEN",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "sagri",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 346,
+    "name_en": "Mubarakpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "mubarakpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 347,
+    "name_en": "Azamgarh",
+    "reservation": "GEN",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "azamgarh",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 348,
+    "name_en": "Nizamabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "nizamabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 349,
+    "name_en": "Phoolpur Pawai",
+    "reservation": "GEN",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "phoolpur-pawai",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 350,
+    "name_en": "Didarganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "didarganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 351,
+    "name_en": "Lalganj",
+    "reservation": "SC",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "lalganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 352,
+    "name_en": "Mehnagar",
+    "reservation": "SC",
+    "primary_district_id": "up-d008",
+    "district_ids": [
+      "up-d008"
+    ],
+    "district_name_en": "Azamgarh",
+    "aliases": [],
+    "slug": "mehnagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 353,
+    "name_en": "Madhuban",
+    "reservation": "GEN",
+    "primary_district_id": "up-d054",
+    "district_ids": [
+      "up-d054"
+    ],
+    "district_name_en": "Mau",
+    "aliases": [],
+    "slug": "madhuban",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 354,
+    "name_en": "Ghosi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d054",
+    "district_ids": [
+      "up-d054"
+    ],
+    "district_name_en": "Mau",
+    "aliases": [],
+    "slug": "ghosi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 355,
+    "name_en": "Muhammadabad-Gohna",
+    "reservation": "SC",
+    "primary_district_id": "up-d054",
+    "district_ids": [
+      "up-d054"
+    ],
+    "district_name_en": "Mau",
+    "aliases": [],
+    "slug": "muhammadabad-gohna",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 356,
+    "name_en": "Mau",
+    "reservation": "GEN",
+    "primary_district_id": "up-d054",
+    "district_ids": [
+      "up-d054"
+    ],
+    "district_name_en": "Mau",
+    "aliases": [],
+    "slug": "mau",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 357,
+    "name_en": "Belthara Road",
+    "reservation": "SC",
+    "primary_district_id": "up-d011",
+    "district_ids": [
+      "up-d011"
+    ],
+    "district_name_en": "Ballia",
+    "aliases": [],
+    "slug": "belthara-road",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 358,
+    "name_en": "Rasara",
+    "reservation": "GEN",
+    "primary_district_id": "up-d011",
+    "district_ids": [
+      "up-d011"
+    ],
+    "district_name_en": "Ballia",
+    "aliases": [],
+    "slug": "rasara",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 359,
+    "name_en": "Sikanderpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d011",
+    "district_ids": [
+      "up-d011"
+    ],
+    "district_name_en": "Ballia",
+    "aliases": [],
+    "slug": "sikanderpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 360,
+    "name_en": "Phephana",
+    "reservation": "GEN",
+    "primary_district_id": "up-d011",
+    "district_ids": [
+      "up-d011"
+    ],
+    "district_name_en": "Ballia",
+    "aliases": [],
+    "slug": "phephana",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 361,
+    "name_en": "Ballia Nagar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d011",
+    "district_ids": [
+      "up-d011"
+    ],
+    "district_name_en": "Ballia",
+    "aliases": [],
+    "slug": "ballia-nagar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 362,
+    "name_en": "Bansdih",
+    "reservation": "GEN",
+    "primary_district_id": "up-d011",
+    "district_ids": [
+      "up-d011"
+    ],
+    "district_name_en": "Ballia",
+    "aliases": [],
+    "slug": "bansdih",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 363,
+    "name_en": "Bairia",
+    "reservation": "GEN",
+    "primary_district_id": "up-d011",
+    "district_ids": [
+      "up-d011"
+    ],
+    "district_name_en": "Ballia",
+    "aliases": [],
+    "slug": "bairia",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 364,
+    "name_en": "Badlapur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "badlapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 365,
+    "name_en": "Shahganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "shahganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 366,
+    "name_en": "Jaunpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "jaunpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 367,
+    "name_en": "Malhani",
+    "reservation": "GEN",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "malhani",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 368,
+    "name_en": "Mungra Badshahpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "mungra-badshahpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 369,
+    "name_en": "Machhlishahr",
+    "reservation": "SC",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "machhlishahr",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 370,
+    "name_en": "Mariyahu",
+    "reservation": "GEN",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "mariyahu",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 371,
+    "name_en": "Zafrabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "zafrabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 372,
+    "name_en": "Kerakat",
+    "reservation": "SC",
+    "primary_district_id": "up-d039",
+    "district_ids": [
+      "up-d039"
+    ],
+    "district_name_en": "Jaunpur",
+    "aliases": [],
+    "slug": "kerakat",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 373,
+    "name_en": "Jakhanian",
+    "reservation": "SC",
+    "primary_district_id": "up-d031",
+    "district_ids": [
+      "up-d031"
+    ],
+    "district_name_en": "Ghazipur",
+    "aliases": [],
+    "slug": "jakhanian",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 374,
+    "name_en": "Saidpur",
+    "reservation": "SC",
+    "primary_district_id": "up-d031",
+    "district_ids": [
+      "up-d031"
+    ],
+    "district_name_en": "Ghazipur",
+    "aliases": [],
+    "slug": "saidpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 375,
+    "name_en": "Ghazipur Sadar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d031",
+    "district_ids": [
+      "up-d031"
+    ],
+    "district_name_en": "Ghazipur",
+    "aliases": [
+      "Ghazipur"
+    ],
+    "slug": "ghazipur-sadar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 376,
+    "name_en": "Jangipur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d031",
+    "district_ids": [
+      "up-d031"
+    ],
+    "district_name_en": "Ghazipur",
+    "aliases": [],
+    "slug": "jangipur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 377,
+    "name_en": "Zahoorabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d031",
+    "district_ids": [
+      "up-d031"
+    ],
+    "district_name_en": "Ghazipur",
+    "aliases": [],
+    "slug": "zahoorabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 378,
+    "name_en": "Mohammadabad",
+    "reservation": "GEN",
+    "primary_district_id": "up-d031",
+    "district_ids": [
+      "up-d031"
+    ],
+    "district_name_en": "Ghazipur",
+    "aliases": [],
+    "slug": "mohammadabad",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 379,
+    "name_en": "Zamania",
+    "reservation": "GEN",
+    "primary_district_id": "up-d031",
+    "district_ids": [
+      "up-d031"
+    ],
+    "district_name_en": "Ghazipur",
+    "aliases": [],
+    "slug": "zamania",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 380,
+    "name_en": "Mughalsarai",
+    "reservation": "GEN",
+    "primary_district_id": "up-d021",
+    "district_ids": [
+      "up-d021"
+    ],
+    "district_name_en": "Chandauli",
+    "aliases": [],
+    "slug": "mughalsarai",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 381,
+    "name_en": "Sakaldiha",
+    "reservation": "GEN",
+    "primary_district_id": "up-d021",
+    "district_ids": [
+      "up-d021"
+    ],
+    "district_name_en": "Chandauli",
+    "aliases": [],
+    "slug": "sakaldiha",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 382,
+    "name_en": "Saiyadraja",
+    "reservation": "GEN",
+    "primary_district_id": "up-d021",
+    "district_ids": [
+      "up-d021"
+    ],
+    "district_name_en": "Chandauli",
+    "aliases": [],
+    "slug": "saiyadraja",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 383,
+    "name_en": "Chakia",
+    "reservation": "SC",
+    "primary_district_id": "up-d021",
+    "district_ids": [
+      "up-d021"
+    ],
+    "district_name_en": "Chandauli",
+    "aliases": [],
+    "slug": "chakia",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 384,
+    "name_en": "Pindra",
+    "reservation": "GEN",
+    "primary_district_id": "up-d075",
+    "district_ids": [
+      "up-d075"
+    ],
+    "district_name_en": "Varanasi",
+    "aliases": [],
+    "slug": "pindra",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 385,
+    "name_en": "Ajagara",
+    "reservation": "SC",
+    "primary_district_id": "up-d075",
+    "district_ids": [
+      "up-d075"
+    ],
+    "district_name_en": "Varanasi",
+    "aliases": [],
+    "slug": "ajagara",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 386,
+    "name_en": "Shivpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d075",
+    "district_ids": [
+      "up-d075"
+    ],
+    "district_name_en": "Varanasi",
+    "aliases": [],
+    "slug": "shivpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 387,
+    "name_en": "Rohaniya",
+    "reservation": "GEN",
+    "primary_district_id": "up-d075",
+    "district_ids": [
+      "up-d075"
+    ],
+    "district_name_en": "Varanasi",
+    "aliases": [],
+    "slug": "rohaniya",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 388,
+    "name_en": "Varanasi North",
+    "reservation": "GEN",
+    "primary_district_id": "up-d075",
+    "district_ids": [
+      "up-d075"
+    ],
+    "district_name_en": "Varanasi",
+    "aliases": [],
+    "slug": "varanasi-north",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 389,
+    "name_en": "Varanasi South",
+    "reservation": "GEN",
+    "primary_district_id": "up-d075",
+    "district_ids": [
+      "up-d075"
+    ],
+    "district_name_en": "Varanasi",
+    "aliases": [],
+    "slug": "varanasi-south",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 390,
+    "name_en": "Varanasi Cantt.",
+    "reservation": "GEN",
+    "primary_district_id": "up-d075",
+    "district_ids": [
+      "up-d075"
+    ],
+    "district_name_en": "Varanasi",
+    "aliases": [],
+    "slug": "varanasi-cantt",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 391,
+    "name_en": "Sevapuri",
+    "reservation": "GEN",
+    "primary_district_id": "up-d075",
+    "district_ids": [
+      "up-d075"
+    ],
+    "district_name_en": "Varanasi",
+    "aliases": [],
+    "slug": "sevapuri",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 392,
+    "name_en": "Bhadohi",
+    "reservation": "GEN",
+    "primary_district_id": "up-d017",
+    "district_ids": [
+      "up-d017"
+    ],
+    "district_name_en": "Bhadohi",
+    "aliases": [],
+    "slug": "bhadohi",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 393,
+    "name_en": "Gyanpur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d017",
+    "district_ids": [
+      "up-d017"
+    ],
+    "district_name_en": "Bhadohi",
+    "aliases": [],
+    "slug": "gyanpur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 394,
+    "name_en": "Aurai",
+    "reservation": "SC",
+    "primary_district_id": "up-d017",
+    "district_ids": [
+      "up-d017"
+    ],
+    "district_name_en": "Bhadohi",
+    "aliases": [],
+    "slug": "aurai",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 395,
+    "name_en": "Chhanbey",
+    "reservation": "SC",
+    "primary_district_id": "up-d056",
+    "district_ids": [
+      "up-d056"
+    ],
+    "district_name_en": "Mirzapur",
+    "aliases": [],
+    "slug": "chhanbey",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 396,
+    "name_en": "Mirzapur",
+    "reservation": "GEN",
+    "primary_district_id": "up-d056",
+    "district_ids": [
+      "up-d056"
+    ],
+    "district_name_en": "Mirzapur",
+    "aliases": [],
+    "slug": "mirzapur",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 397,
+    "name_en": "Majhawan",
+    "reservation": "GEN",
+    "primary_district_id": "up-d056",
+    "district_ids": [
+      "up-d056"
+    ],
+    "district_name_en": "Mirzapur",
+    "aliases": [],
+    "slug": "majhawan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 398,
+    "name_en": "Chunar",
+    "reservation": "GEN",
+    "primary_district_id": "up-d056",
+    "district_ids": [
+      "up-d056"
+    ],
+    "district_name_en": "Mirzapur",
+    "aliases": [],
+    "slug": "chunar",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 399,
+    "name_en": "Marihan",
+    "reservation": "GEN",
+    "primary_district_id": "up-d056",
+    "district_ids": [
+      "up-d056"
+    ],
+    "district_name_en": "Mirzapur",
+    "aliases": [],
+    "slug": "marihan",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 400,
+    "name_en": "Ghorawal",
+    "reservation": "GEN",
+    "primary_district_id": "up-d072",
+    "district_ids": [
+      "up-d072"
+    ],
+    "district_name_en": "Sonbhadra",
+    "aliases": [],
+    "slug": "ghorawal",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 401,
+    "name_en": "Robertsganj",
+    "reservation": "GEN",
+    "primary_district_id": "up-d072",
+    "district_ids": [
+      "up-d072"
+    ],
+    "district_name_en": "Sonbhadra",
+    "aliases": [],
+    "slug": "robertsganj",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 402,
+    "name_en": "Obra",
+    "reservation": "ST",
+    "primary_district_id": "up-d072",
+    "district_ids": [
+      "up-d072"
+    ],
+    "district_name_en": "Sonbhadra",
+    "aliases": [],
+    "slug": "obra",
+    "state_code": "UP",
+    "cross_district": false
+  },
+  {
+    "ac_number": 403,
+    "name_en": "Duddhi",
+    "reservation": "ST",
+    "primary_district_id": "up-d072",
+    "district_ids": [
+      "up-d072"
+    ],
+    "district_name_en": "Sonbhadra",
+    "aliases": [
+      "Dudhi"
+    ],
+    "slug": "duddhi",
+    "state_code": "UP",
+    "cross_district": false
+  }
+]

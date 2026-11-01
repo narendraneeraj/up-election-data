@@ -1,0 +1,55 @@
+{
+  "dataset": "UP Assembly Constituencies — master index",
+  "version": "1.0.0",
+  "prepared_on": "2026-11-02",
+  "state_code": "UP",
+  "state_name": "Uttar Pradesh",
+  "district_count": 75,
+  "assembly_count": 403,
+  "assembly_reservation_count": {
+    "GEN": 317,
+    "SC": 84,
+    "ST": 2
+  },
+  "classification_reference_year": 2022,
+  "language_coverage": {
+    "district_names": [
+      "en",
+      "hi"
+    ],
+    "assembly_names": [
+      "en"
+    ]
+  },
+  "data_scope": "District and Assembly master lists, not MLA records or personal electoral rolls",
+  "district_mapping_method": "Primary district association for navigation. Some seats span multiple districts; see district_ids.",
+  "cross_district_assembly_numbers": [
+    30,
+    58,
+    184,
+    271
+  ],
+  "sources": [
+    {
+      "name": "ECI 2022 Assembly election press note (constituency names and SC/ST categories)",
+      "url": "https://static.pib.gov.in/writereaddata/userfiles/PN_3.pdf"
+    },
+    {
+      "name": "Uttar Pradesh Legislative Assembly constituency and district table (secondary mapping cross-check)",
+      "url": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly"
+    },
+    {
+      "name": "Government of India directory, UP districts (75 districts)",
+      "url": "https://igod.gov.in/index.php/sg/UP/E042/organizations"
+    },
+    {
+      "name": "Public research index of UP Electoral Rolls 2023 (cross-district evidence)",
+      "url": "https://github.com/in-rolls/electoral_rolls_up_2023"
+    }
+  ],
+  "voter_services": {
+    "eci_elector_search": "https://electoralsearch.eci.gov.in/",
+    "eci_roll_download": "https://voters.eci.gov.in/download-eroll"
+  },
+  "disclaimer": "Independent informational data. Not an official ECI or Government of Uttar Pradesh application. Verify changes against current ECI/CEO publications."
+}
