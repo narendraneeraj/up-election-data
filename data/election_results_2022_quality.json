@@ -1,0 +1,128 @@
+{
+  "dataset": "User-supplied 2022 UP Assembly election results CSV",
+  "input_file": "sources/2022-MLA-List.csv",
+  "source_status": "User-provided data; candidate-level figures not independently verified with ECI final statistical report",
+  "assembly_records": 403,
+  "party_winner_counts": {
+    "AD(S)": 12,
+    "BJP": 255,
+    "BSP": 1,
+    "INC": 2,
+    "JD(L)": 2,
+    "NISHAD": 6,
+    "RLD": 8,
+    "SBSP": 6,
+    "SP": 111
+  },
+  "source_margin_mismatch_count": 13,
+  "source_margin_mismatches": [
+    {
+      "ac_number": 26,
+      "assembly_name": "Thakurdwara",
+      "reported_margin_votes": 19684,
+      "calculated_from_supplied_votes": 19685,
+      "difference_votes": 1
+    },
+    {
+      "ac_number": 54,
+      "assembly_name": "Muradnagar",
+      "reported_margin_votes": 97295,
+      "calculated_from_supplied_votes": 97095,
+      "difference_votes": -200
+    },
+    {
+      "ac_number": 74,
+      "assembly_name": "Chharra",
+      "reported_margin_votes": 24327,
+      "calculated_from_supplied_votes": 23962,
+      "difference_votes": -365
+    },
+    {
+      "ac_number": 102,
+      "assembly_name": "Patiyali",
+      "reported_margin_votes": 4001,
+      "calculated_from_supplied_votes": 3588,
+      "difference_votes": -413
+    },
+    {
+      "ac_number": 119,
+      "assembly_name": "Meerganj",
+      "reported_margin_votes": 32840,
+      "calculated_from_supplied_votes": 32480,
+      "difference_votes": -360
+    },
+    {
+      "ac_number": 181,
+      "assembly_name": "Salon",
+      "reported_margin_votes": 1511,
+      "calculated_from_supplied_votes": 2111,
+      "difference_votes": 600
+    },
+    {
+      "ac_number": 195,
+      "assembly_name": "Bhojpur",
+      "reported_margin_votes": 27468,
+      "calculated_from_supplied_votes": 27458,
+      "difference_votes": -10
+    },
+    {
+      "ac_number": 264,
+      "assembly_name": "Bara",
+      "reported_margin_votes": 12464,
+      "calculated_from_supplied_votes": 12524,
+      "difference_votes": 60
+    },
+    {
+      "ac_number": 281,
+      "assembly_name": "Akbarpur",
+      "reported_margin_votes": 12336,
+      "calculated_from_supplied_votes": 11796,
+      "difference_votes": -540
+    },
+    {
+      "ac_number": 299,
+      "assembly_name": "Tarabganj",
+      "reported_margin_votes": 53690,
+      "calculated_from_supplied_votes": 53960,
+      "difference_votes": 270
+    },
+    {
+      "ac_number": 313,
+      "assembly_name": "Khalilabad",
+      "reported_margin_votes": 12262,
+      "calculated_from_supplied_votes": 12622,
+      "difference_votes": 360
+    },
+    {
+      "ac_number": 316,
+      "assembly_name": "Nautanwa",
+      "reported_margin_votes": 15691,
+      "calculated_from_supplied_votes": 15871,
+      "difference_votes": 180
+    },
+    {
+      "ac_number": 327,
+      "assembly_name": "Bansgaon",
+      "reported_margin_votes": 32209,
+      "calculated_from_supplied_votes": 32309,
+      "difference_votes": 100
+    }
+  ],
+  "source_district_mismatch_count": 1,
+  "source_district_mismatches": [
+    {
+      "ac_number": 181,
+      "source_district": "Raebareli",
+      "master_primary_district": "Amethi"
+    }
+  ],
+  "source_constituency_name_variant_count": 1,
+  "source_constituency_name_variants": [
+    {
+      "ac_number": 87,
+      "source_name": "Agra Cantonment (SC)",
+      "master_name": "Agra Cantt."
+    }
+  ],
+  "policy": "For mismatched margins margin_votes is null pending verification. Retain the input figures unchanged as separate fields. The master assembly number and district ID are canonical for joining datasets."
+}

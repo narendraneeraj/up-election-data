@@ -1,6 +1,6 @@
 {
   "dataset": "UP Assembly Constituencies — master index",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "prepared_on": "2026-11-02",
   "state_code": "UP",
   "state_name": "Uttar Pradesh",
@@ -51,5 +51,17 @@
     "eci_elector_search": "https://electoralsearch.eci.gov.in/",
     "eci_roll_download": "https://voters.eci.gov.in/download-eroll"
   },
-  "disclaimer": "Independent informational data. Not an official ECI or Government of Uttar Pradesh application. Verify changes against current ECI/CEO publications."
+  "disclaimer": "Independent informational data. Not an official ECI or Government of Uttar Pradesh application. Verify changes against current ECI/CEO publications.",
+  "last_updated": "2026-11-02",
+  "historical_elections": {
+    "2022": {
+      "results_file": "data/election_results_2022.json",
+      "winners_file": "data/mlas_2022.json",
+      "source_csv": "sources/2022-MLA-List.csv",
+      "quality_report": "data/election_results_2022_quality.json",
+      "results_count": 403,
+      "source_status": "User-supplied CSV; party seat totals independently cross-checked; individual candidate votes/names still require verification against ECI final result report",
+      "source_margin_mismatches": 13
+    }
+  }
 }

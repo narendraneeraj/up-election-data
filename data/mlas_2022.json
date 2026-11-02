@@ -1,0 +1,3629 @@
+[
+  {
+    "ac_number": 1,
+    "assembly_name_en": "Behat",
+    "primary_district_id": "up-d064",
+    "election_year": 2022,
+    "elected_candidate": "Umar Ali Khan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 2,
+    "assembly_name_en": "Nakur",
+    "primary_district_id": "up-d064",
+    "election_year": 2022,
+    "elected_candidate": "Mukesh Choudhary",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 3,
+    "assembly_name_en": "Saharanpur Nagar",
+    "primary_district_id": "up-d064",
+    "election_year": 2022,
+    "elected_candidate": "Rajiv Gumber",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 4,
+    "assembly_name_en": "Saharanpur",
+    "primary_district_id": "up-d064",
+    "election_year": 2022,
+    "elected_candidate": "Ashu Malik",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 5,
+    "assembly_name_en": "Deoband",
+    "primary_district_id": "up-d064",
+    "election_year": 2022,
+    "elected_candidate": "Th. Brijesh Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 6,
+    "assembly_name_en": "Rampur Maniharan",
+    "primary_district_id": "up-d064",
+    "election_year": 2022,
+    "elected_candidate": "Devendra Kumar Nim",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 7,
+    "assembly_name_en": "Gangoh",
+    "primary_district_id": "up-d064",
+    "election_year": 2022,
+    "elected_candidate": "Kirat Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 8,
+    "assembly_name_en": "Kairana",
+    "primary_district_id": "up-d068",
+    "election_year": 2022,
+    "elected_candidate": "Nahid Hasan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 9,
+    "assembly_name_en": "Thana Bhawan",
+    "primary_district_id": "up-d068",
+    "election_year": 2022,
+    "elected_candidate": "Ashraf Ali Khan",
+    "elected_party": "RLD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 10,
+    "assembly_name_en": "Shamli",
+    "primary_district_id": "up-d068",
+    "election_year": 2022,
+    "elected_candidate": "Persann Kumar Chaudhary",
+    "elected_party": "RLD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 11,
+    "assembly_name_en": "Budhana",
+    "primary_district_id": "up-d058",
+    "election_year": 2022,
+    "elected_candidate": "Rajpal Singh Baliyan",
+    "elected_party": "RLD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 12,
+    "assembly_name_en": "Charthawal",
+    "primary_district_id": "up-d058",
+    "election_year": 2022,
+    "elected_candidate": "Pankaj Kumar Malik",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 13,
+    "assembly_name_en": "Purqazi",
+    "primary_district_id": "up-d058",
+    "election_year": 2022,
+    "elected_candidate": "Anil Kumar",
+    "elected_party": "RLD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 14,
+    "assembly_name_en": "Muzaffarnagar",
+    "primary_district_id": "up-d058",
+    "election_year": 2022,
+    "elected_candidate": "Kapil Dev Aggarwal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 15,
+    "assembly_name_en": "Khatauli",
+    "primary_district_id": "up-d058",
+    "election_year": 2022,
+    "elected_candidate": "Vikram Singh Saini",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 16,
+    "assembly_name_en": "Meerapur",
+    "primary_district_id": "up-d058",
+    "election_year": 2022,
+    "elected_candidate": "Chandan Chauhan",
+    "elected_party": "RLD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 17,
+    "assembly_name_en": "Najibabad",
+    "primary_district_id": "up-d018",
+    "election_year": 2022,
+    "elected_candidate": "Tasleem Ahmad",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 18,
+    "assembly_name_en": "Nagina",
+    "primary_district_id": "up-d018",
+    "election_year": 2022,
+    "elected_candidate": "Manoj Kumar Paras",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 19,
+    "assembly_name_en": "Barhapur",
+    "primary_district_id": "up-d018",
+    "election_year": 2022,
+    "elected_candidate": "Kunwar Sushant Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 20,
+    "assembly_name_en": "Dhampur",
+    "primary_district_id": "up-d018",
+    "election_year": 2022,
+    "elected_candidate": "Ashok Kumar Rana",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 21,
+    "assembly_name_en": "Nehtaur",
+    "primary_district_id": "up-d018",
+    "election_year": 2022,
+    "elected_candidate": "Om Kumar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 22,
+    "assembly_name_en": "Bijnor",
+    "primary_district_id": "up-d018",
+    "election_year": 2022,
+    "elected_candidate": "Suchi Chaudhary",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 23,
+    "assembly_name_en": "Chandpur",
+    "primary_district_id": "up-d018",
+    "election_year": 2022,
+    "elected_candidate": "Swami Omvesh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 24,
+    "assembly_name_en": "Noorpur",
+    "primary_district_id": "up-d018",
+    "election_year": 2022,
+    "elected_candidate": "Ram Avatar Singh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 25,
+    "assembly_name_en": "Kanth",
+    "primary_district_id": "up-d057",
+    "election_year": 2022,
+    "elected_candidate": "Kamal Akhtar",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 26,
+    "assembly_name_en": "Thakurdwara",
+    "primary_district_id": "up-d057",
+    "election_year": 2022,
+    "elected_candidate": "Nawab Jan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 27,
+    "assembly_name_en": "Moradabad Rural",
+    "primary_district_id": "up-d057",
+    "election_year": 2022,
+    "elected_candidate": "Mohd Nasir Qureshi",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 28,
+    "assembly_name_en": "Moradabad Nagar",
+    "primary_district_id": "up-d057",
+    "election_year": 2022,
+    "elected_candidate": "Ritesh Kumar Gupta",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 29,
+    "assembly_name_en": "Kundarki",
+    "primary_district_id": "up-d057",
+    "election_year": 2022,
+    "elected_candidate": "Zia ur Rahman Barq",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 30,
+    "assembly_name_en": "Bilari",
+    "primary_district_id": "up-d057",
+    "election_year": 2022,
+    "elected_candidate": "Mohammed Faeem",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 31,
+    "assembly_name_en": "Chandausi",
+    "primary_district_id": "up-d065",
+    "election_year": 2022,
+    "elected_candidate": "Gulabo Devi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 32,
+    "assembly_name_en": "Asmoli",
+    "primary_district_id": "up-d065",
+    "election_year": 2022,
+    "elected_candidate": "Pinki Singh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 33,
+    "assembly_name_en": "Sambhal",
+    "primary_district_id": "up-d065",
+    "election_year": 2022,
+    "elected_candidate": "Iqbal Mehmood",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 34,
+    "assembly_name_en": "Suar",
+    "primary_district_id": "up-d063",
+    "election_year": 2022,
+    "elected_candidate": "Abdullah Azam Khan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 35,
+    "assembly_name_en": "Chamraua",
+    "primary_district_id": "up-d063",
+    "election_year": 2022,
+    "elected_candidate": "Naseer Ahmad Khan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 36,
+    "assembly_name_en": "Bilaspur",
+    "primary_district_id": "up-d063",
+    "election_year": 2022,
+    "elected_candidate": "Baldev Singh Aulakh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 37,
+    "assembly_name_en": "Rampur",
+    "primary_district_id": "up-d063",
+    "election_year": 2022,
+    "elected_candidate": "Azam Khan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 38,
+    "assembly_name_en": "Milak",
+    "primary_district_id": "up-d063",
+    "election_year": 2022,
+    "elected_candidate": "Rajbala",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 39,
+    "assembly_name_en": "Dhanaura",
+    "primary_district_id": "up-d005",
+    "election_year": 2022,
+    "elected_candidate": "Rajeev Tarara",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 40,
+    "assembly_name_en": "Naugawan Sadat",
+    "primary_district_id": "up-d005",
+    "election_year": 2022,
+    "elected_candidate": "Samarpal Singh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 41,
+    "assembly_name_en": "Amroha",
+    "primary_district_id": "up-d005",
+    "election_year": 2022,
+    "elected_candidate": "Mehboob Ali",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 42,
+    "assembly_name_en": "Hasanpur",
+    "primary_district_id": "up-d005",
+    "election_year": 2022,
+    "elected_candidate": "Mahender Khadakvanshi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 43,
+    "assembly_name_en": "Siwalkhas",
+    "primary_district_id": "up-d055",
+    "election_year": 2022,
+    "elected_candidate": "Ghulam Mohammed",
+    "elected_party": "RLD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 44,
+    "assembly_name_en": "Sardhana",
+    "primary_district_id": "up-d055",
+    "election_year": 2022,
+    "elected_candidate": "Atul Pradhan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 45,
+    "assembly_name_en": "Hastinapur",
+    "primary_district_id": "up-d055",
+    "election_year": 2022,
+    "elected_candidate": "Dinesh Khatik",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 46,
+    "assembly_name_en": "Kithore",
+    "primary_district_id": "up-d055",
+    "election_year": 2022,
+    "elected_candidate": "Shahid Manzoor",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 47,
+    "assembly_name_en": "Meerut Cantt.",
+    "primary_district_id": "up-d055",
+    "election_year": 2022,
+    "elected_candidate": "Amit Agrawal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 48,
+    "assembly_name_en": "Meerut",
+    "primary_district_id": "up-d055",
+    "election_year": 2022,
+    "elected_candidate": "Rafiq Ansari",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 49,
+    "assembly_name_en": "Meerut South",
+    "primary_district_id": "up-d055",
+    "election_year": 2022,
+    "elected_candidate": "Somendra Tomar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 50,
+    "assembly_name_en": "Chhaprauli",
+    "primary_district_id": "up-d009",
+    "election_year": 2022,
+    "elected_candidate": "Ajay Kumar",
+    "elected_party": "RLD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 51,
+    "assembly_name_en": "Baraut",
+    "primary_district_id": "up-d009",
+    "election_year": 2022,
+    "elected_candidate": "Krishnapal Malik",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 52,
+    "assembly_name_en": "Baghpat",
+    "primary_district_id": "up-d009",
+    "election_year": 2022,
+    "elected_candidate": "Chaudhary Yogesh Dhama",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 53,
+    "assembly_name_en": "Loni",
+    "primary_district_id": "up-d030",
+    "election_year": 2022,
+    "elected_candidate": "Nand Kishor Gurjar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 54,
+    "assembly_name_en": "Muradnagar",
+    "primary_district_id": "up-d030",
+    "election_year": 2022,
+    "elected_candidate": "Ajit Pal Tyagi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 55,
+    "assembly_name_en": "Sahibabad",
+    "primary_district_id": "up-d030",
+    "election_year": 2022,
+    "elected_candidate": "Sunil Kumar Sharma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 56,
+    "assembly_name_en": "Ghaziabad",
+    "primary_district_id": "up-d030",
+    "election_year": 2022,
+    "elected_candidate": "Atul Garg",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 57,
+    "assembly_name_en": "Modinagar",
+    "primary_district_id": "up-d030",
+    "election_year": 2022,
+    "elected_candidate": "Manju Shiwach",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 58,
+    "assembly_name_en": "Dhaulana",
+    "primary_district_id": "up-d035",
+    "election_year": 2022,
+    "elected_candidate": "Dharmesh Singh Tomar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 59,
+    "assembly_name_en": "Hapur",
+    "primary_district_id": "up-d035",
+    "election_year": 2022,
+    "elected_candidate": "Vijay Pal Aadthi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 60,
+    "assembly_name_en": "Garhmukteshwar",
+    "primary_district_id": "up-d035",
+    "election_year": 2022,
+    "elected_candidate": "Harendra Singh Tewatia",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 61,
+    "assembly_name_en": "Noida",
+    "primary_district_id": "up-d029",
+    "election_year": 2022,
+    "elected_candidate": "Pankaj Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 62,
+    "assembly_name_en": "Dadri",
+    "primary_district_id": "up-d029",
+    "election_year": 2022,
+    "elected_candidate": "Tejpal Singh Nagar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 63,
+    "assembly_name_en": "Jewar",
+    "primary_district_id": "up-d029",
+    "election_year": 2022,
+    "elected_candidate": "Dhirendra Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 64,
+    "assembly_name_en": "Sikandrabad",
+    "primary_district_id": "up-d020",
+    "election_year": 2022,
+    "elected_candidate": "Lakshmi Raj Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 65,
+    "assembly_name_en": "Bulandshahr",
+    "primary_district_id": "up-d020",
+    "election_year": 2022,
+    "elected_candidate": "Pradeep Kumar Chaudhary",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 66,
+    "assembly_name_en": "Syana",
+    "primary_district_id": "up-d020",
+    "election_year": 2022,
+    "elected_candidate": "Devendra Singh Lodhi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 67,
+    "assembly_name_en": "Anupshahr",
+    "primary_district_id": "up-d020",
+    "election_year": 2022,
+    "elected_candidate": "Sanjay Kumar Sharma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 68,
+    "assembly_name_en": "Debai",
+    "primary_district_id": "up-d020",
+    "election_year": 2022,
+    "elected_candidate": "Chandrapal Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 69,
+    "assembly_name_en": "Shikarpur",
+    "primary_district_id": "up-d020",
+    "election_year": 2022,
+    "elected_candidate": "Anil Sharma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 70,
+    "assembly_name_en": "Khurja",
+    "primary_district_id": "up-d020",
+    "election_year": 2022,
+    "elected_candidate": "Meenakshi Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 71,
+    "assembly_name_en": "Khair",
+    "primary_district_id": "up-d002",
+    "election_year": 2022,
+    "elected_candidate": "Anoop Pradhan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 72,
+    "assembly_name_en": "Barauli",
+    "primary_district_id": "up-d002",
+    "election_year": 2022,
+    "elected_candidate": "Thakur Jaivir Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 73,
+    "assembly_name_en": "Atrauli",
+    "primary_district_id": "up-d002",
+    "election_year": 2022,
+    "elected_candidate": "Sandeep Kumar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 74,
+    "assembly_name_en": "Chharra",
+    "primary_district_id": "up-d002",
+    "election_year": 2022,
+    "elected_candidate": "Ravendra Pal Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 75,
+    "assembly_name_en": "Koil",
+    "primary_district_id": "up-d002",
+    "election_year": 2022,
+    "elected_candidate": "Anil Parashar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 76,
+    "assembly_name_en": "Aligarh",
+    "primary_district_id": "up-d002",
+    "election_year": 2022,
+    "elected_candidate": "Mukta Raja",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 77,
+    "assembly_name_en": "Iglas",
+    "primary_district_id": "up-d002",
+    "election_year": 2022,
+    "elected_candidate": "Rajkumar Sahyogi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 78,
+    "assembly_name_en": "Hathras",
+    "primary_district_id": "up-d037",
+    "election_year": 2022,
+    "elected_candidate": "Anjula Singh Mahaur",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 79,
+    "assembly_name_en": "Sadabad",
+    "primary_district_id": "up-d037",
+    "election_year": 2022,
+    "elected_candidate": "Pradeep Kumar Singh",
+    "elected_party": "RLD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 80,
+    "assembly_name_en": "Sikandra Rao",
+    "primary_district_id": "up-d037",
+    "election_year": 2022,
+    "elected_candidate": "Birendra Singh Rana",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 81,
+    "assembly_name_en": "Chhata",
+    "primary_district_id": "up-d053",
+    "election_year": 2022,
+    "elected_candidate": "Ch. Laxmi Narayan Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 82,
+    "assembly_name_en": "Mant",
+    "primary_district_id": "up-d053",
+    "election_year": 2022,
+    "elected_candidate": "Rajesh Chaudhary",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 83,
+    "assembly_name_en": "Goverdhan",
+    "primary_district_id": "up-d053",
+    "election_year": 2022,
+    "elected_candidate": "Karinda Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 84,
+    "assembly_name_en": "Mathura",
+    "primary_district_id": "up-d053",
+    "election_year": 2022,
+    "elected_candidate": "Shrikant Sharma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 85,
+    "assembly_name_en": "Baldev",
+    "primary_district_id": "up-d053",
+    "election_year": 2022,
+    "elected_candidate": "Pooran Prakash",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 86,
+    "assembly_name_en": "Etmadpur",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "Dharampal Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 87,
+    "assembly_name_en": "Agra Cantt.",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "G S Dharmesh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 88,
+    "assembly_name_en": "Agra South",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "Yogendra Upadhyaya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 89,
+    "assembly_name_en": "Agra North",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "Purushottam Khandelwal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 90,
+    "assembly_name_en": "Agra Rural",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "Baby Rani Maurya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 91,
+    "assembly_name_en": "Fatehpur Sikri",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "Babulal Chaudhary",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 92,
+    "assembly_name_en": "Kheragarh",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "Bhagwan Singh Kushwaha",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 93,
+    "assembly_name_en": "Fatehabad",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "Chotelal Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 94,
+    "assembly_name_en": "Bah",
+    "primary_district_id": "up-d001",
+    "election_year": 2022,
+    "elected_candidate": "Rani Pakshalika Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 95,
+    "assembly_name_en": "Tundla",
+    "primary_district_id": "up-d028",
+    "election_year": 2022,
+    "elected_candidate": "Prempal Singh Dhangar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 96,
+    "assembly_name_en": "Jasrana",
+    "primary_district_id": "up-d028",
+    "election_year": 2022,
+    "elected_candidate": "Sachin Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 97,
+    "assembly_name_en": "Firozabad",
+    "primary_district_id": "up-d028",
+    "election_year": 2022,
+    "elected_candidate": "Manish Asiza",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 98,
+    "assembly_name_en": "Shikohabad",
+    "primary_district_id": "up-d028",
+    "election_year": 2022,
+    "elected_candidate": "Mukesh Verma",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 99,
+    "assembly_name_en": "Sirsaganj",
+    "primary_district_id": "up-d028",
+    "election_year": 2022,
+    "elected_candidate": "Sarvesh Singh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 100,
+    "assembly_name_en": "Kasganj",
+    "primary_district_id": "up-d044",
+    "election_year": 2022,
+    "elected_candidate": "Devendra Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 101,
+    "assembly_name_en": "Amanpur",
+    "primary_district_id": "up-d044",
+    "election_year": 2022,
+    "elected_candidate": "Hariom Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 102,
+    "assembly_name_en": "Patiyali",
+    "primary_district_id": "up-d044",
+    "election_year": 2022,
+    "elected_candidate": "Nadira Sultan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 103,
+    "assembly_name_en": "Aliganj",
+    "primary_district_id": "up-d024",
+    "election_year": 2022,
+    "elected_candidate": "Satyapal Singh Rathore",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 104,
+    "assembly_name_en": "Etah",
+    "primary_district_id": "up-d024",
+    "election_year": 2022,
+    "elected_candidate": "Vipin Kumar David",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 105,
+    "assembly_name_en": "Marhara",
+    "primary_district_id": "up-d024",
+    "election_year": 2022,
+    "elected_candidate": "Virendra Singh Lodhi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 106,
+    "assembly_name_en": "Jalesar",
+    "primary_district_id": "up-d024",
+    "election_year": 2022,
+    "elected_candidate": "Sanjeev Kumar Diwakar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 107,
+    "assembly_name_en": "Mainpuri",
+    "primary_district_id": "up-d052",
+    "election_year": 2022,
+    "elected_candidate": "Jaiveer Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 108,
+    "assembly_name_en": "Bhongaon",
+    "primary_district_id": "up-d052",
+    "election_year": 2022,
+    "elected_candidate": "Ram Naresh Agnihotri",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 109,
+    "assembly_name_en": "Kishni",
+    "primary_district_id": "up-d052",
+    "election_year": 2022,
+    "elected_candidate": "Brajesh Katheriya",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 110,
+    "assembly_name_en": "Karhal",
+    "primary_district_id": "up-d052",
+    "election_year": 2022,
+    "elected_candidate": "Akhilesh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 111,
+    "assembly_name_en": "Gunnaur",
+    "primary_district_id": "up-d065",
+    "election_year": 2022,
+    "elected_candidate": "Ramkhiladi Singh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 112,
+    "assembly_name_en": "Bisauli",
+    "primary_district_id": "up-d019",
+    "election_year": 2022,
+    "elected_candidate": "Ashutosh Maurya",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 113,
+    "assembly_name_en": "Sahaswan",
+    "primary_district_id": "up-d019",
+    "election_year": 2022,
+    "elected_candidate": "Brajesh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 114,
+    "assembly_name_en": "Bilsi",
+    "primary_district_id": "up-d019",
+    "election_year": 2022,
+    "elected_candidate": "Harish Chandra Shakya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 115,
+    "assembly_name_en": "Badaun",
+    "primary_district_id": "up-d019",
+    "election_year": 2022,
+    "elected_candidate": "Mahesh Chandra Gupta",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 116,
+    "assembly_name_en": "Shekhupur",
+    "primary_district_id": "up-d019",
+    "election_year": 2022,
+    "elected_candidate": "Himanshu Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 117,
+    "assembly_name_en": "Dataganj",
+    "primary_district_id": "up-d019",
+    "election_year": 2022,
+    "elected_candidate": "Rajeev Kumar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 118,
+    "assembly_name_en": "Baheri",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "Ataur Rehman",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 119,
+    "assembly_name_en": "Meerganj",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "DC Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 120,
+    "assembly_name_en": "Bhojipura",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "Shazil Islam Ansari",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 121,
+    "assembly_name_en": "Nawabganj",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "Dr. M. P. Arya Gangwar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 122,
+    "assembly_name_en": "Faridpur",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "Shyam Bihari Lal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 123,
+    "assembly_name_en": "Bithari Chainpur",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "Raghavendra Sharma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 124,
+    "assembly_name_en": "Bareilly",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "Dr. Arun Kumar Saxena",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 125,
+    "assembly_name_en": "Bareilly Cantt.",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "Sanjeev Agarwal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 126,
+    "assembly_name_en": "Aonla",
+    "primary_district_id": "up-d015",
+    "election_year": 2022,
+    "elected_candidate": "Dharampal Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 127,
+    "assembly_name_en": "Pilibhit",
+    "primary_district_id": "up-d059",
+    "election_year": 2022,
+    "elected_candidate": "Sanjay Singh Gangwar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 128,
+    "assembly_name_en": "Barkhera",
+    "primary_district_id": "up-d059",
+    "election_year": 2022,
+    "elected_candidate": "Swami Pravaktanand",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 129,
+    "assembly_name_en": "Puranpur",
+    "primary_district_id": "up-d059",
+    "election_year": 2022,
+    "elected_candidate": "Babu Ram Paswan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 130,
+    "assembly_name_en": "Bisalpur",
+    "primary_district_id": "up-d059",
+    "election_year": 2022,
+    "elected_candidate": "Vivek Kumar Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 131,
+    "assembly_name_en": "Katra",
+    "primary_district_id": "up-d067",
+    "election_year": 2022,
+    "elected_candidate": "Veer Vikram Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 132,
+    "assembly_name_en": "Jalalabad",
+    "primary_district_id": "up-d067",
+    "election_year": 2022,
+    "elected_candidate": "Hari Prakash Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 133,
+    "assembly_name_en": "Tilhar",
+    "primary_district_id": "up-d067",
+    "election_year": 2022,
+    "elected_candidate": "Salona Kushwaha",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 134,
+    "assembly_name_en": "Powayan",
+    "primary_district_id": "up-d067",
+    "election_year": 2022,
+    "elected_candidate": "Chetram Pasi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 135,
+    "assembly_name_en": "Shahjahanpur",
+    "primary_district_id": "up-d067",
+    "election_year": 2022,
+    "elected_candidate": "Suresh Kumar Khanna",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 136,
+    "assembly_name_en": "Dadraul",
+    "primary_district_id": "up-d067",
+    "election_year": 2022,
+    "elected_candidate": "Manvendra Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 137,
+    "assembly_name_en": "Palia",
+    "primary_district_id": "up-d047",
+    "election_year": 2022,
+    "elected_candidate": "Harvindar Kumar Sahani",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 138,
+    "assembly_name_en": "Nighasan",
+    "primary_district_id": "up-d047",
+    "election_year": 2022,
+    "elected_candidate": "Shashank Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 139,
+    "assembly_name_en": "Gola Gokrannath",
+    "primary_district_id": "up-d047",
+    "election_year": 2022,
+    "elected_candidate": "Arvind Giri",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 140,
+    "assembly_name_en": "Sri Nagar",
+    "primary_district_id": "up-d047",
+    "election_year": 2022,
+    "elected_candidate": "Manju Tyagi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 141,
+    "assembly_name_en": "Dhaurahra",
+    "primary_district_id": "up-d047",
+    "election_year": 2022,
+    "elected_candidate": "Vinod Shankar Awasthi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 142,
+    "assembly_name_en": "Lakhimpur",
+    "primary_district_id": "up-d047",
+    "election_year": 2022,
+    "elected_candidate": "Yogesh Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 143,
+    "assembly_name_en": "Kasta",
+    "primary_district_id": "up-d047",
+    "election_year": 2022,
+    "elected_candidate": "Saurabh Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 144,
+    "assembly_name_en": "Mohammdi",
+    "primary_district_id": "up-d047",
+    "election_year": 2022,
+    "elected_candidate": "Lokendra Pratap Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 145,
+    "assembly_name_en": "Maholi",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Shashank Trivedi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 146,
+    "assembly_name_en": "Sitapur",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Rakesh Rathour",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 147,
+    "assembly_name_en": "Hargaon",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Suresh Rahi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 148,
+    "assembly_name_en": "Laharpur",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Anil Kumar Verma",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 149,
+    "assembly_name_en": "Biswan",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Nirmal Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 150,
+    "assembly_name_en": "Sevata",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Gyan Tiwari",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 151,
+    "assembly_name_en": "Mahmoodabad",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Asha Maurya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 152,
+    "assembly_name_en": "Sidhauli",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Manish Rawat",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 153,
+    "assembly_name_en": "Misrikh",
+    "primary_district_id": "up-d071",
+    "election_year": 2022,
+    "elected_candidate": "Ramkrishna Bhargava",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 154,
+    "assembly_name_en": "Sawayazpur",
+    "primary_district_id": "up-d036",
+    "election_year": 2022,
+    "elected_candidate": "Madhavendra Pratap",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 155,
+    "assembly_name_en": "Shahabad",
+    "primary_district_id": "up-d036",
+    "election_year": 2022,
+    "elected_candidate": "Rajani Tiwari",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 156,
+    "assembly_name_en": "Hardoi",
+    "primary_district_id": "up-d036",
+    "election_year": 2022,
+    "elected_candidate": "Nitin Agarwal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 157,
+    "assembly_name_en": "Gopamau",
+    "primary_district_id": "up-d036",
+    "election_year": 2022,
+    "elected_candidate": "Shyam Prakash",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 158,
+    "assembly_name_en": "Sandi",
+    "primary_district_id": "up-d036",
+    "election_year": 2022,
+    "elected_candidate": "Prabhash Kumar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 159,
+    "assembly_name_en": "Bilgram-Mallanwan",
+    "primary_district_id": "up-d036",
+    "election_year": 2022,
+    "elected_candidate": "Ashish Kumar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 160,
+    "assembly_name_en": "Balamau",
+    "primary_district_id": "up-d036",
+    "election_year": 2022,
+    "elected_candidate": "Ram Pal Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 161,
+    "assembly_name_en": "Sandila",
+    "primary_district_id": "up-d036",
+    "election_year": 2022,
+    "elected_candidate": "Alka Singh Arkvanshi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 162,
+    "assembly_name_en": "Bangarmau",
+    "primary_district_id": "up-d074",
+    "election_year": 2022,
+    "elected_candidate": "Shrikant Katiyar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 163,
+    "assembly_name_en": "Safipur",
+    "primary_district_id": "up-d074",
+    "election_year": 2022,
+    "elected_candidate": "Bamba Lal Diwakar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 164,
+    "assembly_name_en": "Mohan",
+    "primary_district_id": "up-d074",
+    "election_year": 2022,
+    "elected_candidate": "Brijesh Kumar Rawat",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 165,
+    "assembly_name_en": "Unnao",
+    "primary_district_id": "up-d074",
+    "election_year": 2022,
+    "elected_candidate": "Pankaj Gupta",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 166,
+    "assembly_name_en": "Bhagwantnagar",
+    "primary_district_id": "up-d074",
+    "election_year": 2022,
+    "elected_candidate": "Ashutosh Shukla",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 167,
+    "assembly_name_en": "Purwa",
+    "primary_district_id": "up-d074",
+    "election_year": 2022,
+    "elected_candidate": "Anil Kumar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 168,
+    "assembly_name_en": "Malihabad",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Jai Devi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 169,
+    "assembly_name_en": "Bakshi Kaa Talab",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Yogesh Shukla",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 170,
+    "assembly_name_en": "Sarojini Nagar",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Rajeshwar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 171,
+    "assembly_name_en": "Lucknow West",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Armaan Khan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 172,
+    "assembly_name_en": "Lucknow North",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Neeraj Bora",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 173,
+    "assembly_name_en": "Lucknow East",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Ashutosh Tandon",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 174,
+    "assembly_name_en": "Lucknow Central",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Ravidas Mehotra",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 175,
+    "assembly_name_en": "Lucknow Cantonment",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Brajesh Pathak",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 176,
+    "assembly_name_en": "Mohanlalganj",
+    "primary_district_id": "up-d049",
+    "election_year": 2022,
+    "elected_candidate": "Amresh Kumar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 177,
+    "assembly_name_en": "Bachhrawan",
+    "primary_district_id": "up-d062",
+    "election_year": 2022,
+    "elected_candidate": "Shyam Sunder Bharti",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 178,
+    "assembly_name_en": "Tiloi",
+    "primary_district_id": "up-d004",
+    "election_year": 2022,
+    "elected_candidate": "Mayankeshwar Sharan Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 179,
+    "assembly_name_en": "Harchandpur",
+    "primary_district_id": "up-d062",
+    "election_year": 2022,
+    "elected_candidate": "Rahul Rajpoot",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 180,
+    "assembly_name_en": "Rae Bareli",
+    "primary_district_id": "up-d062",
+    "election_year": 2022,
+    "elected_candidate": "Aditi Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 181,
+    "assembly_name_en": "Salon",
+    "primary_district_id": "up-d004",
+    "election_year": 2022,
+    "elected_candidate": "Ashok Kori",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 182,
+    "assembly_name_en": "Sareni",
+    "primary_district_id": "up-d062",
+    "election_year": 2022,
+    "elected_candidate": "Devendra Pratap Singh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 183,
+    "assembly_name_en": "Unchahar",
+    "primary_district_id": "up-d062",
+    "election_year": 2022,
+    "elected_candidate": "Manoj Kumar Pandey",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 184,
+    "assembly_name_en": "Jagdishpur",
+    "primary_district_id": "up-d004",
+    "election_year": 2022,
+    "elected_candidate": "Suresh Kumar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 185,
+    "assembly_name_en": "Gauriganj",
+    "primary_district_id": "up-d004",
+    "election_year": 2022,
+    "elected_candidate": "Rakesh Pratap Singh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 186,
+    "assembly_name_en": "Amethi",
+    "primary_district_id": "up-d004",
+    "election_year": 2022,
+    "elected_candidate": "Maharaji Prajapati",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 187,
+    "assembly_name_en": "Isauli",
+    "primary_district_id": "up-d073",
+    "election_year": 2022,
+    "elected_candidate": "Mohammad Tahir Khan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 188,
+    "assembly_name_en": "Sultanpur",
+    "primary_district_id": "up-d073",
+    "election_year": 2022,
+    "elected_candidate": "Vinod Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 189,
+    "assembly_name_en": "Sadar",
+    "primary_district_id": "up-d073",
+    "election_year": 2022,
+    "elected_candidate": "Raj Prasad Upadhyay",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 190,
+    "assembly_name_en": "Lambhua",
+    "primary_district_id": "up-d073",
+    "election_year": 2022,
+    "elected_candidate": "Sitaram Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 191,
+    "assembly_name_en": "Kadipur",
+    "primary_district_id": "up-d073",
+    "election_year": 2022,
+    "elected_candidate": "Rajesh Gautam",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 192,
+    "assembly_name_en": "Kaimganj",
+    "primary_district_id": "up-d026",
+    "election_year": 2022,
+    "elected_candidate": "Dr. Surabhi Singh",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 193,
+    "assembly_name_en": "Amritpur",
+    "primary_district_id": "up-d026",
+    "election_year": 2022,
+    "elected_candidate": "Sushil Kumar Shakya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 194,
+    "assembly_name_en": "Farrukhabad",
+    "primary_district_id": "up-d026",
+    "election_year": 2022,
+    "elected_candidate": "Sunil Dutt Dwivedi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 195,
+    "assembly_name_en": "Bhojpur",
+    "primary_district_id": "up-d026",
+    "election_year": 2022,
+    "elected_candidate": "Nagendra Singh Rathore",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 196,
+    "assembly_name_en": "Chhibramau",
+    "primary_district_id": "up-d041",
+    "election_year": 2022,
+    "elected_candidate": "Archana Pandey",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 197,
+    "assembly_name_en": "Tirwa",
+    "primary_district_id": "up-d041",
+    "election_year": 2022,
+    "elected_candidate": "Kailash Singh Rajput",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 198,
+    "assembly_name_en": "Kannauj",
+    "primary_district_id": "up-d041",
+    "election_year": 2022,
+    "elected_candidate": "Asim Arun",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 199,
+    "assembly_name_en": "Jaswantnagar",
+    "primary_district_id": "up-d025",
+    "election_year": 2022,
+    "elected_candidate": "Shivpal Singh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 200,
+    "assembly_name_en": "Etawah",
+    "primary_district_id": "up-d025",
+    "election_year": 2022,
+    "elected_candidate": "Sarita Bhadauria",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 201,
+    "assembly_name_en": "Bharthana",
+    "primary_district_id": "up-d025",
+    "election_year": 2022,
+    "elected_candidate": "Raghvendra Kumar Singh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 202,
+    "assembly_name_en": "Bidhuna",
+    "primary_district_id": "up-d006",
+    "election_year": 2022,
+    "elected_candidate": "Rekha Verma",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 203,
+    "assembly_name_en": "Dibiyapur",
+    "primary_district_id": "up-d006",
+    "election_year": 2022,
+    "elected_candidate": "Pradeep Kumar Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 204,
+    "assembly_name_en": "Auraiya",
+    "primary_district_id": "up-d006",
+    "election_year": 2022,
+    "elected_candidate": "Gudiya Katheriya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 205,
+    "assembly_name_en": "Rasulabad",
+    "primary_district_id": "up-d042",
+    "election_year": 2022,
+    "elected_candidate": "Poonam Sankhwar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 206,
+    "assembly_name_en": "Akbarpur-Raniya",
+    "primary_district_id": "up-d042",
+    "election_year": 2022,
+    "elected_candidate": "Pratibha Shukla",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 207,
+    "assembly_name_en": "Sikandra",
+    "primary_district_id": "up-d042",
+    "election_year": 2022,
+    "elected_candidate": "Ajit Singh Pal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 208,
+    "assembly_name_en": "Bhognipur",
+    "primary_district_id": "up-d042",
+    "election_year": 2022,
+    "elected_candidate": "Rakesh Sachan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 209,
+    "assembly_name_en": "Bilhaur",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Rahul Bachha Sonkar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 210,
+    "assembly_name_en": "Bithoor",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Abhijeet Singh Sanga",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 211,
+    "assembly_name_en": "Kalyanpur",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Neelima Katiyar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 212,
+    "assembly_name_en": "Govind Nagar",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Surendra Maithani",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 213,
+    "assembly_name_en": "Sishamau",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Haji Irfan Solanki",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 214,
+    "assembly_name_en": "Arya Nagar",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Amitabh Bajpai",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 215,
+    "assembly_name_en": "Kidwai Nagar",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Mahesh Trivedi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 216,
+    "assembly_name_en": "Kanpur Cantonment",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Mohammed Hasan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 217,
+    "assembly_name_en": "Maharajpur",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Satish Mahana",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 218,
+    "assembly_name_en": "Ghatampur",
+    "primary_district_id": "up-d043",
+    "election_year": 2022,
+    "elected_candidate": "Saroj Kureel",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 219,
+    "assembly_name_en": "Madhogarh",
+    "primary_district_id": "up-d038",
+    "election_year": 2022,
+    "elected_candidate": "Moolchandra Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 220,
+    "assembly_name_en": "Kalpi",
+    "primary_district_id": "up-d038",
+    "election_year": 2022,
+    "elected_candidate": "Vinod Chaturvedi",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 221,
+    "assembly_name_en": "Orai",
+    "primary_district_id": "up-d038",
+    "election_year": 2022,
+    "elected_candidate": "Gauri Shankar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 222,
+    "assembly_name_en": "Babina",
+    "primary_district_id": "up-d040",
+    "election_year": 2022,
+    "elected_candidate": "Rajeev Singh Parichha",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 223,
+    "assembly_name_en": "Jhansi Nagar",
+    "primary_district_id": "up-d040",
+    "election_year": 2022,
+    "elected_candidate": "Ravi Sharma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 224,
+    "assembly_name_en": "Mauranipur",
+    "primary_district_id": "up-d040",
+    "election_year": 2022,
+    "elected_candidate": "Rashmi Arya",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 225,
+    "assembly_name_en": "Garautha",
+    "primary_district_id": "up-d040",
+    "election_year": 2022,
+    "elected_candidate": "Jawahar Lal Rajput",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 226,
+    "assembly_name_en": "Lalitpur",
+    "primary_district_id": "up-d048",
+    "election_year": 2022,
+    "elected_candidate": "Ramratan Kushwaha",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 227,
+    "assembly_name_en": "Mehroni",
+    "primary_district_id": "up-d048",
+    "election_year": 2022,
+    "elected_candidate": "Manohar Lal Panth",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 228,
+    "assembly_name_en": "Hamirpur",
+    "primary_district_id": "up-d034",
+    "election_year": 2022,
+    "elected_candidate": "Manoj Kumar Prajapati",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 229,
+    "assembly_name_en": "Rath",
+    "primary_district_id": "up-d034",
+    "election_year": 2022,
+    "elected_candidate": "Manisha Anuragi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 230,
+    "assembly_name_en": "Mahoba",
+    "primary_district_id": "up-d051",
+    "election_year": 2022,
+    "elected_candidate": "Rakesh Kumar Goswami",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 231,
+    "assembly_name_en": "Charkhari",
+    "primary_district_id": "up-d051",
+    "election_year": 2022,
+    "elected_candidate": "Brijbhushan Rajpoot",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 232,
+    "assembly_name_en": "Tindwari",
+    "primary_district_id": "up-d013",
+    "election_year": 2022,
+    "elected_candidate": "Ramakesh Nishad",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 233,
+    "assembly_name_en": "Baberu",
+    "primary_district_id": "up-d013",
+    "election_year": 2022,
+    "elected_candidate": "Vishambhar Singh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 234,
+    "assembly_name_en": "Naraini",
+    "primary_district_id": "up-d013",
+    "election_year": 2022,
+    "elected_candidate": "Ommani Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 235,
+    "assembly_name_en": "Banda",
+    "primary_district_id": "up-d013",
+    "election_year": 2022,
+    "elected_candidate": "Prakash Dwivedi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 236,
+    "assembly_name_en": "Chitrakoot",
+    "primary_district_id": "up-d022",
+    "election_year": 2022,
+    "elected_candidate": "Anil Pradhan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 237,
+    "assembly_name_en": "Manikpur",
+    "primary_district_id": "up-d022",
+    "election_year": 2022,
+    "elected_candidate": "Avinash Chandra Dwivedi",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 238,
+    "assembly_name_en": "Jahanabad",
+    "primary_district_id": "up-d027",
+    "election_year": 2022,
+    "elected_candidate": "Rajendra Singh Patel",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 239,
+    "assembly_name_en": "Bindki",
+    "primary_district_id": "up-d027",
+    "election_year": 2022,
+    "elected_candidate": "Jai Kumar Singh Jaiki",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 240,
+    "assembly_name_en": "Fatehpur",
+    "primary_district_id": "up-d027",
+    "election_year": 2022,
+    "elected_candidate": "Chandra Prakash Lodhi",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 241,
+    "assembly_name_en": "Ayah Shah",
+    "primary_district_id": "up-d027",
+    "election_year": 2022,
+    "elected_candidate": "Vikas Gupta",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 242,
+    "assembly_name_en": "Husainganj",
+    "primary_district_id": "up-d027",
+    "election_year": 2022,
+    "elected_candidate": "Usha Maurya",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 243,
+    "assembly_name_en": "Khaga",
+    "primary_district_id": "up-d027",
+    "election_year": 2022,
+    "elected_candidate": "Krishna Paswan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 244,
+    "assembly_name_en": "Rampur Khas",
+    "primary_district_id": "up-d060",
+    "election_year": 2022,
+    "elected_candidate": "Aradhana Misra Mona",
+    "elected_party": "INC",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 245,
+    "assembly_name_en": "Babaganj",
+    "primary_district_id": "up-d060",
+    "election_year": 2022,
+    "elected_candidate": "Vinod Kumar",
+    "elected_party": "JD(L)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 246,
+    "assembly_name_en": "Kunda",
+    "primary_district_id": "up-d060",
+    "election_year": 2022,
+    "elected_candidate": "Raghuraj Pratap Singh",
+    "elected_party": "JD(L)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 247,
+    "assembly_name_en": "Vishwanathganj",
+    "primary_district_id": "up-d060",
+    "election_year": 2022,
+    "elected_candidate": "Jeet Lal Patel",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 248,
+    "assembly_name_en": "Pratapgarh",
+    "primary_district_id": "up-d060",
+    "election_year": 2022,
+    "elected_candidate": "Rajendra Maurya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 249,
+    "assembly_name_en": "Patti",
+    "primary_district_id": "up-d060",
+    "election_year": 2022,
+    "elected_candidate": "Ram Singh Patel",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 250,
+    "assembly_name_en": "Raniganj",
+    "primary_district_id": "up-d060",
+    "election_year": 2022,
+    "elected_candidate": "Rakesh Kumar Verma",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 251,
+    "assembly_name_en": "Sirathu",
+    "primary_district_id": "up-d045",
+    "election_year": 2022,
+    "elected_candidate": "Pallavi Patel",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 252,
+    "assembly_name_en": "Manjhanpur",
+    "primary_district_id": "up-d045",
+    "election_year": 2022,
+    "elected_candidate": "Indrajit Saroj",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 253,
+    "assembly_name_en": "Chail",
+    "primary_district_id": "up-d045",
+    "election_year": 2022,
+    "elected_candidate": "Pooja Pal",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 254,
+    "assembly_name_en": "Phaphamau",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Guru Prasad Maurya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 255,
+    "assembly_name_en": "Soraon",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Geeta Shastri",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 256,
+    "assembly_name_en": "Phulpur",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Praveen Patel",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 257,
+    "assembly_name_en": "Pratappur",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Vijama Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 258,
+    "assembly_name_en": "Handia",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Hakim Lal Bind",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 259,
+    "assembly_name_en": "Meja",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Sandeep Singh Patel",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 260,
+    "assembly_name_en": "Karachhana",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Piyush Ranjan Nishad",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 261,
+    "assembly_name_en": "Allahabad West",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Sidharth Nath Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 262,
+    "assembly_name_en": "Allahabad North",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Harshvardhan Bajpai",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 263,
+    "assembly_name_en": "Allahabad South",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Nand Gopal Gupta",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 264,
+    "assembly_name_en": "Bara",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Vachaspati",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 265,
+    "assembly_name_en": "Koraon",
+    "primary_district_id": "up-d061",
+    "election_year": 2022,
+    "elected_candidate": "Rajmani Kol",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 266,
+    "assembly_name_en": "Kursi",
+    "primary_district_id": "up-d014",
+    "election_year": 2022,
+    "elected_candidate": "Sakendra Pratap Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 267,
+    "assembly_name_en": "Ram Nagar",
+    "primary_district_id": "up-d014",
+    "election_year": 2022,
+    "elected_candidate": "Fareed Mahfooz Kidwai",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 268,
+    "assembly_name_en": "Barabanki",
+    "primary_district_id": "up-d014",
+    "election_year": 2022,
+    "elected_candidate": "Dharmraj Singh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 269,
+    "assembly_name_en": "Zaidpur",
+    "primary_district_id": "up-d014",
+    "election_year": 2022,
+    "elected_candidate": "Gaurav Kumar",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 270,
+    "assembly_name_en": "Dariyabad",
+    "primary_district_id": "up-d014",
+    "election_year": 2022,
+    "elected_candidate": "Satish Sharma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 271,
+    "assembly_name_en": "Rudauli",
+    "primary_district_id": "up-d007",
+    "election_year": 2022,
+    "elected_candidate": "Ram Chandra Yadav",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 272,
+    "assembly_name_en": "Haidergarh",
+    "primary_district_id": "up-d014",
+    "election_year": 2022,
+    "elected_candidate": "Dinesh Rawat",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 273,
+    "assembly_name_en": "Milkipur",
+    "primary_district_id": "up-d007",
+    "election_year": 2022,
+    "elected_candidate": "Awadhesh Prasad",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 274,
+    "assembly_name_en": "Bikapur",
+    "primary_district_id": "up-d007",
+    "election_year": 2022,
+    "elected_candidate": "Amit Singh Chauhan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 275,
+    "assembly_name_en": "Ayodhya",
+    "primary_district_id": "up-d007",
+    "election_year": 2022,
+    "elected_candidate": "Ved Prakash Gupta",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 276,
+    "assembly_name_en": "Goshainganj",
+    "primary_district_id": "up-d007",
+    "election_year": 2022,
+    "elected_candidate": "Abhay Singh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 277,
+    "assembly_name_en": "Katehari",
+    "primary_district_id": "up-d003",
+    "election_year": 2022,
+    "elected_candidate": "Lalji Verma",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 278,
+    "assembly_name_en": "Tanda",
+    "primary_district_id": "up-d003",
+    "election_year": 2022,
+    "elected_candidate": "Ram Murti Verma",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 279,
+    "assembly_name_en": "Alapur",
+    "primary_district_id": "up-d003",
+    "election_year": 2022,
+    "elected_candidate": "Tribhuwan Dutt",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 280,
+    "assembly_name_en": "Jalalpur",
+    "primary_district_id": "up-d003",
+    "election_year": 2022,
+    "elected_candidate": "Rakesh Pandey",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 281,
+    "assembly_name_en": "Akbarpur",
+    "primary_district_id": "up-d003",
+    "election_year": 2022,
+    "elected_candidate": "Ram Achal Rajbhar",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 282,
+    "assembly_name_en": "Balha",
+    "primary_district_id": "up-d010",
+    "election_year": 2022,
+    "elected_candidate": "Saroj Sonkar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 283,
+    "assembly_name_en": "Nanpara",
+    "primary_district_id": "up-d010",
+    "election_year": 2022,
+    "elected_candidate": "Ram Niwas Verma",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 284,
+    "assembly_name_en": "Matera",
+    "primary_district_id": "up-d010",
+    "election_year": 2022,
+    "elected_candidate": "Mariya Shah",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 285,
+    "assembly_name_en": "Mahasi",
+    "primary_district_id": "up-d010",
+    "election_year": 2022,
+    "elected_candidate": "Sureshwar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 286,
+    "assembly_name_en": "Bahraich",
+    "primary_district_id": "up-d010",
+    "election_year": 2022,
+    "elected_candidate": "Anupma Jaiswal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 287,
+    "assembly_name_en": "Payagpur",
+    "primary_district_id": "up-d010",
+    "election_year": 2022,
+    "elected_candidate": "Subhash Tripathi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 288,
+    "assembly_name_en": "Kaiserganj",
+    "primary_district_id": "up-d010",
+    "election_year": 2022,
+    "elected_candidate": "Anand Kumar",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 289,
+    "assembly_name_en": "Bhinga",
+    "primary_district_id": "up-d069",
+    "election_year": 2022,
+    "elected_candidate": "Indrani Devi",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 290,
+    "assembly_name_en": "Shrawasti",
+    "primary_district_id": "up-d069",
+    "election_year": 2022,
+    "elected_candidate": "Ram Feran Pandey",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 291,
+    "assembly_name_en": "Tulsipur",
+    "primary_district_id": "up-d012",
+    "election_year": 2022,
+    "elected_candidate": "Kailash Nath Shukla",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 292,
+    "assembly_name_en": "Gainsari",
+    "primary_district_id": "up-d012",
+    "election_year": 2022,
+    "elected_candidate": "Shiv Pratap Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 293,
+    "assembly_name_en": "Utraula",
+    "primary_district_id": "up-d012",
+    "election_year": 2022,
+    "elected_candidate": "Ram Pratap Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 294,
+    "assembly_name_en": "Balrampur",
+    "primary_district_id": "up-d012",
+    "election_year": 2022,
+    "elected_candidate": "Paltu Ram",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 295,
+    "assembly_name_en": "Mehnaun",
+    "primary_district_id": "up-d032",
+    "election_year": 2022,
+    "elected_candidate": "Vinay Kumar Dwivedi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 296,
+    "assembly_name_en": "Gonda",
+    "primary_district_id": "up-d032",
+    "election_year": 2022,
+    "elected_candidate": "Prateek Bhushan Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 297,
+    "assembly_name_en": "Katra Bazar",
+    "primary_district_id": "up-d032",
+    "election_year": 2022,
+    "elected_candidate": "Bawan Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 298,
+    "assembly_name_en": "Colonelganj",
+    "primary_district_id": "up-d032",
+    "election_year": 2022,
+    "elected_candidate": "Ajay",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 299,
+    "assembly_name_en": "Tarabganj",
+    "primary_district_id": "up-d032",
+    "election_year": 2022,
+    "elected_candidate": "Prem Narayan Pandey",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 300,
+    "assembly_name_en": "Mankapur",
+    "primary_district_id": "up-d032",
+    "election_year": 2022,
+    "elected_candidate": "Ramapati Shastri",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 301,
+    "assembly_name_en": "Gaura",
+    "primary_district_id": "up-d032",
+    "election_year": 2022,
+    "elected_candidate": "Prabhat Kumar Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 302,
+    "assembly_name_en": "Shohratgarh",
+    "primary_district_id": "up-d070",
+    "election_year": 2022,
+    "elected_candidate": "Vinay Verma",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 303,
+    "assembly_name_en": "Kapilvastu",
+    "primary_district_id": "up-d070",
+    "election_year": 2022,
+    "elected_candidate": "Shyam Dhani",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 304,
+    "assembly_name_en": "Bansi",
+    "primary_district_id": "up-d070",
+    "election_year": 2022,
+    "elected_candidate": "Jai Pratap Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 305,
+    "assembly_name_en": "Itwa",
+    "primary_district_id": "up-d070",
+    "election_year": 2022,
+    "elected_candidate": "Mata Prasad Pandey",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 306,
+    "assembly_name_en": "Domariyaganj",
+    "primary_district_id": "up-d070",
+    "election_year": 2022,
+    "elected_candidate": "Saiyada Khatoon",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 307,
+    "assembly_name_en": "Harraiya",
+    "primary_district_id": "up-d016",
+    "election_year": 2022,
+    "elected_candidate": "Ajay Kumar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 308,
+    "assembly_name_en": "Kaptanganj",
+    "primary_district_id": "up-d016",
+    "election_year": 2022,
+    "elected_candidate": "Kavindra Chaudhary",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 309,
+    "assembly_name_en": "Rudhauli",
+    "primary_district_id": "up-d016",
+    "election_year": 2022,
+    "elected_candidate": "Rajendra Prasad Chaudhary",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 310,
+    "assembly_name_en": "Basti Sadar",
+    "primary_district_id": "up-d016",
+    "election_year": 2022,
+    "elected_candidate": "Mahendra Nath Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 311,
+    "assembly_name_en": "Mahadewa",
+    "primary_district_id": "up-d016",
+    "election_year": 2022,
+    "elected_candidate": "Dudhram",
+    "elected_party": "SBSP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 312,
+    "assembly_name_en": "Menhdawal",
+    "primary_district_id": "up-d066",
+    "election_year": 2022,
+    "elected_candidate": "Anil Kumar Tripathi",
+    "elected_party": "NISHAD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 313,
+    "assembly_name_en": "Khalilabad",
+    "primary_district_id": "up-d066",
+    "election_year": 2022,
+    "elected_candidate": "Ankur Raj Tiwari",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 314,
+    "assembly_name_en": "Dhanghata",
+    "primary_district_id": "up-d066",
+    "election_year": 2022,
+    "elected_candidate": "Ganesh Chandra Chauhan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 315,
+    "assembly_name_en": "Pharenda",
+    "primary_district_id": "up-d050",
+    "election_year": 2022,
+    "elected_candidate": "Virendra Chaudhary",
+    "elected_party": "INC",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 316,
+    "assembly_name_en": "Nautanwa",
+    "primary_district_id": "up-d050",
+    "election_year": 2022,
+    "elected_candidate": "Rishi Tripathi",
+    "elected_party": "NISHAD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 317,
+    "assembly_name_en": "Siswa",
+    "primary_district_id": "up-d050",
+    "election_year": 2022,
+    "elected_candidate": "Prem Sagar Patel",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 318,
+    "assembly_name_en": "Maharajganj",
+    "primary_district_id": "up-d050",
+    "election_year": 2022,
+    "elected_candidate": "Jai Mangal Kanojiya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 319,
+    "assembly_name_en": "Paniyara",
+    "primary_district_id": "up-d050",
+    "election_year": 2022,
+    "elected_candidate": "Gyanendra Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 320,
+    "assembly_name_en": "Caimpiyarganj",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Fateh Bahadur Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 321,
+    "assembly_name_en": "Pipraich",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Mahendra Pal Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 322,
+    "assembly_name_en": "Gorakhpur Urban",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Yogi Adityanath",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 323,
+    "assembly_name_en": "Gorakhpur Rural",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Bipin Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 324,
+    "assembly_name_en": "Sahajanwa",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Pradeep Shukla",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 325,
+    "assembly_name_en": "Khajani",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Sriram Chauhan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 326,
+    "assembly_name_en": "Chauri-Chaura",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Sarvan Kumar Nishad",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 327,
+    "assembly_name_en": "Bansgaon",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Vimlesh Paswan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 328,
+    "assembly_name_en": "Chillupar",
+    "primary_district_id": "up-d033",
+    "election_year": 2022,
+    "elected_candidate": "Rajesh Tripathi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 329,
+    "assembly_name_en": "Khadda",
+    "primary_district_id": "up-d046",
+    "election_year": 2022,
+    "elected_candidate": "Vivekanand Pandey",
+    "elected_party": "NISHAD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 330,
+    "assembly_name_en": "Padrauna",
+    "primary_district_id": "up-d046",
+    "election_year": 2022,
+    "elected_candidate": "Manish Jaiswal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 331,
+    "assembly_name_en": "Tamkuhi Raj",
+    "primary_district_id": "up-d046",
+    "election_year": 2022,
+    "elected_candidate": "Asim Kumar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 332,
+    "assembly_name_en": "Fazilnagar",
+    "primary_district_id": "up-d046",
+    "election_year": 2022,
+    "elected_candidate": "Surendra Kumar Kushwaha",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 333,
+    "assembly_name_en": "Kushinagar",
+    "primary_district_id": "up-d046",
+    "election_year": 2022,
+    "elected_candidate": "Panchanand Pathak",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 334,
+    "assembly_name_en": "Hata",
+    "primary_district_id": "up-d046",
+    "election_year": 2022,
+    "elected_candidate": "Mohan Verma",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 335,
+    "assembly_name_en": "Ramkola",
+    "primary_district_id": "up-d046",
+    "election_year": 2022,
+    "elected_candidate": "Vinay Prakash Gond",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 336,
+    "assembly_name_en": "Rudrapur",
+    "primary_district_id": "up-d023",
+    "election_year": 2022,
+    "elected_candidate": "Jai Prakash Nishad",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 337,
+    "assembly_name_en": "Deoria",
+    "primary_district_id": "up-d023",
+    "election_year": 2022,
+    "elected_candidate": "Shalabh Mani Tripathi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 338,
+    "assembly_name_en": "Pathardeva",
+    "primary_district_id": "up-d023",
+    "election_year": 2022,
+    "elected_candidate": "Surya Pratap Shahi",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 339,
+    "assembly_name_en": "Rampur Karkhana",
+    "primary_district_id": "up-d023",
+    "election_year": 2022,
+    "elected_candidate": "Surendra Chaurasia",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 340,
+    "assembly_name_en": "Bhatpar Rani",
+    "primary_district_id": "up-d023",
+    "election_year": 2022,
+    "elected_candidate": "Sabhakunwar Kushawaha",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 341,
+    "assembly_name_en": "Salempur",
+    "primary_district_id": "up-d023",
+    "election_year": 2022,
+    "elected_candidate": "Vijay Laxmi Gautam",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 342,
+    "assembly_name_en": "Barhaj",
+    "primary_district_id": "up-d023",
+    "election_year": 2022,
+    "elected_candidate": "Deepak Kumar Mishra",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 343,
+    "assembly_name_en": "Atrauliya",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Sangram Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 344,
+    "assembly_name_en": "Gopalpur",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Nafees Ahmad",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 345,
+    "assembly_name_en": "Sagri",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Hriday Narayan Singh Patel",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 346,
+    "assembly_name_en": "Mubarakpur",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Akhilesh Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 347,
+    "assembly_name_en": "Azamgarh",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Durga Prasad Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 348,
+    "assembly_name_en": "Nizamabad",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Alambadi",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 349,
+    "assembly_name_en": "Phoolpur Pawai",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Ramakant Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 350,
+    "assembly_name_en": "Didarganj",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Kamlakant Rajbhar",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 351,
+    "assembly_name_en": "Lalganj",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Bechai Saroj",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 352,
+    "assembly_name_en": "Mehnagar",
+    "primary_district_id": "up-d008",
+    "election_year": 2022,
+    "elected_candidate": "Puja Saroj",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 353,
+    "assembly_name_en": "Madhuban",
+    "primary_district_id": "up-d054",
+    "election_year": 2022,
+    "elected_candidate": "Ram Bilash Chauhan",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 354,
+    "assembly_name_en": "Ghosi",
+    "primary_district_id": "up-d054",
+    "election_year": 2022,
+    "elected_candidate": "Dara Singh Chauhan",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 355,
+    "assembly_name_en": "Muhammadabad-Gohna",
+    "primary_district_id": "up-d054",
+    "election_year": 2022,
+    "elected_candidate": "Rajendra Kumar",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 356,
+    "assembly_name_en": "Mau",
+    "primary_district_id": "up-d054",
+    "election_year": 2022,
+    "elected_candidate": "Abbas Ansari",
+    "elected_party": "SBSP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 357,
+    "assembly_name_en": "Belthara Road",
+    "primary_district_id": "up-d011",
+    "election_year": 2022,
+    "elected_candidate": "Hansu Ram",
+    "elected_party": "SBSP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 358,
+    "assembly_name_en": "Rasara",
+    "primary_district_id": "up-d011",
+    "election_year": 2022,
+    "elected_candidate": "Umashankar Singh",
+    "elected_party": "BSP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 359,
+    "assembly_name_en": "Sikanderpur",
+    "primary_district_id": "up-d011",
+    "election_year": 2022,
+    "elected_candidate": "Mohammed Ziauddin Rizvi",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 360,
+    "assembly_name_en": "Phephana",
+    "primary_district_id": "up-d011",
+    "election_year": 2022,
+    "elected_candidate": "Sangram Singh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 361,
+    "assembly_name_en": "Ballia Nagar",
+    "primary_district_id": "up-d011",
+    "election_year": 2022,
+    "elected_candidate": "Daya Shankar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 362,
+    "assembly_name_en": "Bansdih",
+    "primary_district_id": "up-d011",
+    "election_year": 2022,
+    "elected_candidate": "Ketakee Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 363,
+    "assembly_name_en": "Bairia",
+    "primary_district_id": "up-d011",
+    "election_year": 2022,
+    "elected_candidate": "Jai Prakash Anchal",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 364,
+    "assembly_name_en": "Badlapur",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "Ramesh Chandra Mishra",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 365,
+    "assembly_name_en": "Shahganj",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "Ramesh Singh",
+    "elected_party": "NISHAD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 366,
+    "assembly_name_en": "Jaunpur",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "Girish Chandra Yadav",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 367,
+    "assembly_name_en": "Malhani",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "Lucky Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 368,
+    "assembly_name_en": "Mungra Badshahpur",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "Pankaj Patel",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 369,
+    "assembly_name_en": "Machhlishahr",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "Ragini Sonkar",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 370,
+    "assembly_name_en": "Mariyahu",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "R.K. Patel",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 371,
+    "assembly_name_en": "Zafrabad",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "Jagdish Narayan",
+    "elected_party": "SBSP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 372,
+    "assembly_name_en": "Kerakat",
+    "primary_district_id": "up-d039",
+    "election_year": 2022,
+    "elected_candidate": "Tufani Saroj",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 373,
+    "assembly_name_en": "Jakhanian",
+    "primary_district_id": "up-d031",
+    "election_year": 2022,
+    "elected_candidate": "Triveni Ram",
+    "elected_party": "SBSP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 374,
+    "assembly_name_en": "Saidpur",
+    "primary_district_id": "up-d031",
+    "election_year": 2022,
+    "elected_candidate": "Ankit Bharti",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 375,
+    "assembly_name_en": "Ghazipur Sadar",
+    "primary_district_id": "up-d031",
+    "election_year": 2022,
+    "elected_candidate": "Jai Kishan Sahu",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 376,
+    "assembly_name_en": "Jangipur",
+    "primary_district_id": "up-d031",
+    "election_year": 2022,
+    "elected_candidate": "Virendra Kumar Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 377,
+    "assembly_name_en": "Zahoorabad",
+    "primary_district_id": "up-d031",
+    "election_year": 2022,
+    "elected_candidate": "Om Prakash Rajbhar",
+    "elected_party": "SBSP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 378,
+    "assembly_name_en": "Mohammadabad",
+    "primary_district_id": "up-d031",
+    "election_year": 2022,
+    "elected_candidate": "Suhaib Ansari",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 379,
+    "assembly_name_en": "Zamania",
+    "primary_district_id": "up-d031",
+    "election_year": 2022,
+    "elected_candidate": "Omprakash Singh",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 380,
+    "assembly_name_en": "Mughalsarai",
+    "primary_district_id": "up-d021",
+    "election_year": 2022,
+    "elected_candidate": "Ramesh Jaiswal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 381,
+    "assembly_name_en": "Sakaldiha",
+    "primary_district_id": "up-d021",
+    "election_year": 2022,
+    "elected_candidate": "Prabhunarayan Yadav",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 382,
+    "assembly_name_en": "Saiyadraja",
+    "primary_district_id": "up-d021",
+    "election_year": 2022,
+    "elected_candidate": "Sushil Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 383,
+    "assembly_name_en": "Chakia",
+    "primary_district_id": "up-d021",
+    "election_year": 2022,
+    "elected_candidate": "Kailash Kharwar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 384,
+    "assembly_name_en": "Pindra",
+    "primary_district_id": "up-d075",
+    "election_year": 2022,
+    "elected_candidate": "Awadhesh Kumar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 385,
+    "assembly_name_en": "Ajagara",
+    "primary_district_id": "up-d075",
+    "election_year": 2022,
+    "elected_candidate": "Tribhuwan Ram",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 386,
+    "assembly_name_en": "Shivpur",
+    "primary_district_id": "up-d075",
+    "election_year": 2022,
+    "elected_candidate": "Anil Rajbhar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 387,
+    "assembly_name_en": "Rohaniya",
+    "primary_district_id": "up-d075",
+    "election_year": 2022,
+    "elected_candidate": "Dr. Sunil Patel",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 388,
+    "assembly_name_en": "Varanasi North",
+    "primary_district_id": "up-d075",
+    "election_year": 2022,
+    "elected_candidate": "Ravindra Jaiswal",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 389,
+    "assembly_name_en": "Varanasi South",
+    "primary_district_id": "up-d075",
+    "election_year": 2022,
+    "elected_candidate": "Neelkanth Tiwari",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 390,
+    "assembly_name_en": "Varanasi Cantt.",
+    "primary_district_id": "up-d075",
+    "election_year": 2022,
+    "elected_candidate": "Saurabh Srivastava",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 391,
+    "assembly_name_en": "Sevapuri",
+    "primary_district_id": "up-d075",
+    "election_year": 2022,
+    "elected_candidate": "Neel Ratan Singh Patel",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 392,
+    "assembly_name_en": "Bhadohi",
+    "primary_district_id": "up-d017",
+    "election_year": 2022,
+    "elected_candidate": "Zahid Beg",
+    "elected_party": "SP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 393,
+    "assembly_name_en": "Gyanpur",
+    "primary_district_id": "up-d017",
+    "election_year": 2022,
+    "elected_candidate": "Vipul Dubey",
+    "elected_party": "NISHAD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 394,
+    "assembly_name_en": "Aurai",
+    "primary_district_id": "up-d017",
+    "election_year": 2022,
+    "elected_candidate": "Dinanath Bhashkar",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 395,
+    "assembly_name_en": "Chhanbey",
+    "primary_district_id": "up-d056",
+    "election_year": 2022,
+    "elected_candidate": "Rahul Prakash Kol",
+    "elected_party": "AD(S)",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 396,
+    "assembly_name_en": "Mirzapur",
+    "primary_district_id": "up-d056",
+    "election_year": 2022,
+    "elected_candidate": "Ratnakar Mishra",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 397,
+    "assembly_name_en": "Majhawan",
+    "primary_district_id": "up-d056",
+    "election_year": 2022,
+    "elected_candidate": "Dr. Vinod Kumar Bind",
+    "elected_party": "NISHAD",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 398,
+    "assembly_name_en": "Chunar",
+    "primary_district_id": "up-d056",
+    "election_year": 2022,
+    "elected_candidate": "Anurag Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 399,
+    "assembly_name_en": "Marihan",
+    "primary_district_id": "up-d056",
+    "election_year": 2022,
+    "elected_candidate": "Rama Shankar Singh",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 400,
+    "assembly_name_en": "Ghorawal",
+    "primary_district_id": "up-d072",
+    "election_year": 2022,
+    "elected_candidate": "Anil Kumar Maurya",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 401,
+    "assembly_name_en": "Robertsganj",
+    "primary_district_id": "up-d072",
+    "election_year": 2022,
+    "elected_candidate": "Bhupesh Chaubey",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 402,
+    "assembly_name_en": "Obra",
+    "primary_district_id": "up-d072",
+    "election_year": 2022,
+    "elected_candidate": "Sanjeev Kumar Gond",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  },
+  {
+    "ac_number": 403,
+    "assembly_name_en": "Duddhi",
+    "primary_district_id": "up-d072",
+    "election_year": 2022,
+    "elected_candidate": "Ramdular Gaur",
+    "elected_party": "BJP",
+    "historical_election_winner": true
+  }
+]
